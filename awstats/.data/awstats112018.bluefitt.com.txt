@@ -1,0 +1,665 @@
+AWSTATS DATA FILE 7.7 (build 20180105)
+# If you remove this file, all statistics for date 201811 will be lost/reset.
+# Last config file used to build this data file was /home/galarzap/domains/bluefitt.com/awstats/.data/awstats.bluefitt.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 30
+POS_GENERAL 2102                
+POS_TIME 2790                
+POS_VISITOR 9918                
+POS_DAY 13692               
+POS_DOMAIN 3595                
+POS_LOGIN 3831                
+POS_ROBOT 3986                
+POS_WORMS 4980                
+POS_EMAILSENDER 5111                
+POS_EMAILRECEIVER 5254                
+POS_SESSION 14466               
+POS_SIDER 14674               
+POS_FILETYPES 5389                
+POS_DOWNLOADS 5727                
+POS_OS 6074                
+POS_BROWSER 6355                
+POS_SCREENSIZE 7294                
+POS_UNKNOWNREFERER 7368                
+POS_UNKNOWNREFERERBROWSER 7863                
+POS_ORIGIN 8053                
+POS_SEREFERRALS 8197                
+POS_PAGEREFS 8373                
+POS_SEARCHWORDS 8789                
+POS_KEYWORDS 8941                
+POS_MISC 2452                
+POS_ERRORS 9000                
+POS_CLUSTER 3687                
+POS_SIDER_403 9168                
+POS_SIDER_400 9497                
+POS_SIDER_404 9579                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20181201004759 3810 1064093 5794892346966
+FirstTime 20181101060807
+LastTime 20181130231646
+LastUpdate 20181201022023 3810 0 3809 0 0
+TotalVisits 170                 
+TotalUnique 94                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 97                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 221 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 4 7 19499 3 4 3943
+1 2 5 14594 5 6 4617
+2 16 28 72690 6 8 7940
+3 3 29 198135 4 7 6202
+4 3 33 395737 5 10 7823
+5 24 24 91769 11 12 4724
+6 3 3 7013 3 5 2920
+7 7 10 21492 8 10 7474
+8 4 4 5113 8 9 7181
+9 1196 2779 18866952 112 568 1830414
+10 2827 4204 47258826 411 834 11658445
+11 2793 4264 41103620 275 342 481656
+12 2295 3321 30655114 208 367 11743845
+13 2488 3008 28895378 284 310 364290
+14 346 560 16664090 42 52 129133
+15 1475 2207 17034724 148 228 10007889
+16 2348 3941 46850763 280 434 579786
+17 42 269 1318541 22 31 38661
+18 27 54 434502 33 36 52253
+19 9 9 12863 20 25 45847
+20 7 14 42494 7 27 94264
+21 5 5 6875 10 18 13247
+22 1 1 1748 3 7 41517
+23 11 27 5871310 7 7 4064
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 1
+ip 15936 24806 255843842
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 24
+MSIE[\x20]6 571 605139 20181130155230 0
+wordpress 402 19593889 20181130231641 0
+Googlebot/ 155 10923884 20181130201314 10
+Uptimebot/ 14 4032 20181114063859 0
+Googlebot\-Image/ 13 569129 20181130201321 0
+Baiduspider/ 13 29891 20181130165815 0
+(firefox/)([0-9]\.|[0-1][0]\.) 7 5869 20181129175450 2
+bingpreview 5 4245 20181127124113 0
+no_user_agent 3 6652 20181127134144 0
+crawl 3 6277 20181123145436 1
+spider 2 2080 20181119023938 0
+baidu 1 1329 20181128015346 0
+curl 2 488 20181128094513 0
+unknown 1 1296 20181128193907 1
+DomainCrawler/ 2 2672 20181130053413 1
+custo 1 1329 20181128015434 0
+aiHitBot/ 1 1721 20181111024453 0
+link 2 23756 20181130125131 0
+python 1 1748 20181111163224 0
+favicon 2 1698 20181130102014 0
+XoviBot/ 1 1329 20181127083443 0
+bingbot/ 1 1748 20181110092356 0
+facebookexternalhit/ 1 857 20181123103500 1
+netcraft 1 3605 20181102125837 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 14
+css 1165 12853477 0 0
+png 4178 79400184 0 0
+ttf 17 61104 0 0
+pdf 1 2085730 0 0
+woff 34 817881 0 0
+woff2 40 3088267 0 0
+map 1 6692 0 0
+php 15901 117862275 0 0
+xml 1 789 0 0
+js 2188 20164002 0 0
+jpg 560 18631135 0 0
+Unknown 17 30952 0 0
+gif 164 281305 0 0
+svg 539 560049 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 4
+/wp-content/themes/fusion/framework/plugins/oneclick-common.zip 2 0 106184
+/wp-content/themes/fusion/framework/plugins/theme-common.zip 2 0 7388474
+/wp-content/themes/fusion/framework/plugins/js_composer.zip 2 0 11911150
+/wp-content/uploads/2018/11/Cat2018BlueFitt-incluido-marrones.pdf 1 0 2085730
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 16
+linuxandroid 59 6
+winlong 1 1
+macosx11 1 1
+winxp 10 10
+ios_iphone 395 33
+win2003 1 1
+win8 3 3
+macosx12 13 13
+linux 10 10
+win7 150 77
+macosx 23976 15657
+macosx10 2 2
+Unknown 78 51
+win10 103 67
+win8.1 3 3
+macosx8 1 1
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 45
+android 1 1
+chrome69.0.3497.81 3 3
+chrome5.0.375.99 3 3
+chrome38.0.2125.101 1 1
+opera9.00 1 1
+chrome56.0.2924.87 1 1
+firefox63.0 4 4
+msie8.0 79 16
+chrome61.0.3163.100 13 13
+firefox64.0 1 1
+firefox59.0 2 2
+msie7.0 4 4
+chrome60.0.3112.101 2 2
+chrome34.0.1847.116 1 1
+chrome70.0.3538.80 52 2
+chrome40.0.2214.85 9 9
+chrome56.0.2924.76 8 8
+opera9.64 1 1
+chrome70.0.3538.102 18194 11367
+msie9.0 2 2
+firefox27.0 7 7
+Unknown 45 45
+chrome65.0.3325.181 2 2
+edge17 5 2
+chrome70.0.3538.77 13 7
+chrome66.0.3359.106 1 1
+chrome55.0.2883.87 10 10
+firefox53.0 1 1
+firefox17.0 29 29
+chrome68.0.3440.106 4 1
+chrome62.0.3202.94 2 2
+chrome28.0.1500.71 1 1
+firefox61.0 17 17
+safari6.0.5 30 3
+msie11.0 6 3
+chrome45.0.2454.101 1 1
+mozilla 3 3
+netscape5.0 1 1
+firefox60.0 1 1
+chrome70.0.3538.110 5788 4293
+chrome69.0.3497.100 56 26
+chrome11.0.696.71 2 2
+opera11.2.3.102637 2 2
+chrome29.0.1547.2 1 1
+safari 396 33
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 6
+HoneyBee_6.1_x64 20181118120015
+Mozilla/5.0_(compatible;_Let's_Encrypt_validation_server;__https://www.letsencrypt.org) 20181128094517
+Mozilla/5.0_Moreover/5.1_(_http://www.moreover.com) 20181128133351
+Installatron_Plugin/9.1.41 20181130051719
+Go-http-client/1.1 20181120133814
+Mozilla/5.0_AppleWebKit/536.30.1_(KHTML,_like_Gecko)_Version/6.0.5_Safari/536.30.1_Installatron_(Mimicking_WebKit) 20181121104824
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 3
+HoneyBee_6.1_x64 20181118120015
+Installatron_Plugin/9.1.41 20181130051719
+Go-http-client/1.1 20181120133814
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 266 335
+From1 5 6
+From2 2 2
+From3 38 38
+From4 15625 24425
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 2
+www_google_com 1 1
+yandexru 1 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 7
+https://uptime.com/bluefitt.com 15 15
+https://brandnewblogs.com/blogs-july-2018/ 13 13
+https://brandnewblogs.com/home 3 3
+https://e-images.firebaseapp.com 3 3
+https://e-images.firebaseapp.com 2 2
+https://www.facebook.com 1 1
+https://brandnewblogs.com/site-browser 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 7
+403 15 15545
+401 1 3177
+302 697 434221
+400 1 563
+500 13 81508
+301 61 18356
+404 1118 4742875
+END_ERRORS
+
+# URL with 403 errors - Hits - Last URL referrer
+BEGIN_SIDER_403 6
+/wp-admin/post.php 3 http://bluefitt.com/wp-admin/post.php
+/wp-admin/admin-ajax.php 6 http://bluefitt.com/wp-admin/post.php
+/wp-json/wp/v2/users/ 2 -
+/blog/wp-admin/customize.php 1 http://www.bluefitt.com/blog/
+/robots.txt 1 -
+/.git/info/refs 2 -
+END_SIDER_403
+
+# URL with 400 errors - Hits - Last URL referrer
+BEGIN_SIDER_400 0
+END_SIDER_400
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 1
+/assets/images/search.php 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 97
+90.173.78.27 15658 23977 223259981 20181130154831
+164.138.210.41 57 57 317724 20181130051719
+172.82.177.20 24 51 427101 20181120180336
+213.37.100.95 17 136 13424028 20181130231646
+213.37.140.197 14 191 12927600 20181130143808
+52.53.201.78 13 13 23095 20181129190452
+81.46.200.206 11 11 32687 20181126182917
+70.42.131.170 10 58 482934 20181125081323
+112.47.17.119 9 9 7017 20181130111053
+77.234.68.15 5 5 8740 20181118021845
+46.166.186.196 1 1 1711 20181114232241
+81.45.75.170 2 2 1698 20181122123228
+51.15.209.146 1 1 849 20181126074247
+212.83.169.228 1 1 849 20181130080438
+65.154.226.100 4 4 6992 20181109074018
+46.166.186.208 1 1 295 20181115011903
+104.222.33.179 1 1 3642 20181113173551
+81.88.49.5 1 1 36176 20181121090044
+64.246.165.160 1 1 812 20181128193909
+54.229.153.16 1 1 1711 20181101060807
+70.39.246.37 1 1 849 20181128133351
+217.128.4.158 1 4 14272 20181114164336
+88.27.143.191 1 4 14272 20181106152614
+66.249.93.201 1 1 1748 20181113175331
+104.239.149.11 2 2 3422 20181118103446
+77.234.68.136 3 3 5244 20181103214912
+46.166.186.200 1 1 295 20181117182443
+23.226.211.213 1 1 3642 20181108094854
+109.201.152.24 1 1 295 20181120133814
+207.102.138.158 1 1 1748 20181108000259
+66.249.93.199 0 3 12578 
+104.203.227.249 1 1 812 20181129111407
+173.252.87.3 1 1 849 20181123113507
+109.201.152.1 1 1 295 20181115193120
+64.246.165.190 1 1 1711 20181108163717
+70.42.131.106 3 3 5244 20181107095024
+87.101.94.76 2 2 7210 20181110191936
+84.236.19.165 4 4 6992 20181113191908
+108.171.210.130 1 1 1704 20181107053442
+104.222.33.62 1 1 3642 20181115152301
+171.13.14.7 1 1 849 20181127134144
+46.166.190.137 1 1 295 20181114211741
+217.125.35.37 1 1 849 20181126104317
+172.82.173.23 1 1 6257 20181120180208
+65.154.226.109 5 20 71495 20181120035302
+46.166.137.214 1 1 295 20181120054220
+64.74.215.176 1 1 1748 20181116050346
+37.145.56.99 1 4 14272 20181108111940
+81.88.49.36 1 1 36176 20181121090042
+34.210.62.143 1 1 1748 20181110004807
+77.226.254.106 1 4 14272 20181114090351
+81.45.183.122 2 2 1671 20181122133727
+138.201.125.171 3 30 600055 20181121104824
+180.163.220.4 1 1 805 20181127125013
+31.184.238.11 1 1 3605 20181117153839
+145.239.252.96 5 5 4245 20181130104309
+80.28.200.186 1 4 14272 20181106164455
+184.175.34.90 2 2 3947 20181118120015
+37.187.132.5 0 1 742 
+46.166.137.205 1 1 295 20181115032218
+66.249.85.27 1 21 286002 20181120172502
+144.76.91.10 1 1 1336 20181128142907
+66.249.85.29 1 15 64906 20181121035159
+109.201.152.236 1 1 295 20181120074639
+109.201.152.11 1 1 295 20181115044857
+89.147.68.98 5 5 4245 20181125024212
+104.222.43.15 1 1 36151 20181120161228
+134.255.186.39 1 4 14299 20181119173436
+46.4.33.48 1 1 3598 20181107062302
+38.100.21.62 1 1 3642 20181103234337
+206.180.165.147 1 1 1748 20181120072046
+64.74.215.154 1 1 1748 20181109070305
+109.201.154.175 1 1 295 20181116142518
+185.193.125.115 1 1 1711 20181101142209
+66.133.109.36 2 2 810 20181128094517
+23.226.211.187 1 1 1373 20181127113630
+138.68.180.18 1 1 1711 20181104205004
+90.174.3.220 1 67 3303024 20181121134507
+178.62.62.81 5 5 6680 20181130101614
+109.201.152.232 1 1 295 20181114232240
+104.222.43.205 1 1 3642 20181106140403
+5.101.156.63 1 1 1336 20181128142938
+46.4.24.66 1 1 1336 20181122212532
+104.222.43.21 1 1 1373 20181126165749
+66.249.85.28 0 16 214029 
+46.166.190.140 1 1 295 20181115051240
+180.163.220.5 1 1 805 20181127125015
+64.74.215.58 1 1 1748 20181107102827
+64.74.215.142 1 1 1748 20181120121835
+69.171.251.15 1 1 849 20181123113328
+109.201.138.230 1 1 295 20181116175622
+109.201.138.237 1 1 295 20181116191227
+51.68.154.199 1 1 1329 20181122171559
+101.91.60.108 1 1 1373 20181129162731
+196.19.51.127 1 1 812 20181129091334
+66.249.92.132 1 1 11878 20181130125048
+81.88.49.3 1 1 36176 20181121090109
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 30
+20181101 2 2 3422 2
+20181102 1 1 1704 1
+20181103 4 4 8886 2
+20181104 1 1 1711 1
+20181105 1 1 1704 1
+20181106 5 11 39470 4
+20181107 8 8 15746 6
+20181108 9 15 46452 7
+20181109 5 5 12484 4
+20181110 7 10 28501 4
+20181111 3 9 30302 3
+20181112 1 4 14272 1
+20181113 4 10 34015 4
+20181114 7 16 46848 7
+20181115 8 8 12401 7
+20181116 7 13 32935 7
+20181117 3 6 18199 3
+20181118 11 14 32112 6
+20181119 2 8 28598 2
+20181120 438 1310 21876497 18
+20181121 657 2037 27998341 12
+20181122 1416 2775 25505413 7
+20181123 1737 2748 21785902 7
+20181124 2 2 8751 1
+20181125 9 9 14650 4
+20181126 3377 4610 48601891 8
+20181127 1320 1817 11650588 10
+20181128 2546 3216 20987388 10
+20181129 2213 2891 14063239 11
+20181130 2132 3245 62941420 10
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+1h+ 11
+5mn-15mn 2
+0s-30s 149
+30s-2mn 2
+15mn-30mn 3
+2mn-5mn 2
+30mn-1h 1
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 168
+/wp-admin/admin-ajax.php 13429 30174614 3 12
+/ 712 7846937 140 135
+/wp-admin/post.php 465 51511162 4 0
+/wp-admin/async-upload.php 145 257493 0 0
+/wp-admin/load-scripts.php 133 7576269 0 0
+/wp-admin/admin.php 122 3422367 0 0
+/wp-admin/edit.php 109 2064741 1 0
+/codo-rosca-macho/ 60 742464 0 0
+/wp-admin/theme-editor.php 53 1114631 0 0
+/wp-admin/load-styles.php 52 2745881 0 0
+/wp-admin/post-new.php 12 1323222 1 0
+/blog/wp-admin/options-general.php 6 96522 0 0
+/wp-admin/users.php 2 28625 0 0
+/contact/ 15 76569 0 0
+/blog/wp-admin/tools.php 2 14165 0 0
+/blog-full-grid/ 19 147097 0 0
+/blog/wp-admin/theme-install.php 1 12017 0 0
+/wp-admin/link-manager.php 6 79825 0 0
+/wp-admin/user-new.php 1 13190 0 0
+/deleteme.wpphzg.php 1 5626 0 1
+/xmlrpc.php 1 560 1 0
+/blog/wp-admin/privacy.php 2 14286 0 0
+/.well-known/acme-challenge/oAhi3ZmUglyPZoQl4RbvRsTpbtEsnyZ_vJ_KTbfMJgU 1 405 1 0
+/bienvenida/ 9 82590 0 0
+/filtro-te/ 5 42432 0 0
+/tag/css3/ 1 6210 0 1
+/enlace-rosca-macho/ 6 46059 0 0
+/deleteme.cha1yu9h.php 1 2583 0 0
+/wp-admin/term.php 8 94365 0 0
+/MayonesioJ/category/graphic/ 1 6075 0 0
+/filtro-enlace/ 1 8392 0 0
+/deleteme.chaj2bi1.php 1 2583 1 0
+/wp-content/plugins/shortcodes-ultimate/includes/js/generator/index.js.map 1 6692 0 0
+/MayonesioJ/tag/node-js/ 1 6238 0 0
+/deleteme.chaghtv6.php 1 2583 1 0
+/deleteme.wpmqy2.php 1 6689 0 1
+/deleteme.chalxkjs.php 1 2583 1 0
+/home-mockup-caroseul/ 3 32905 0 0
+/MayonesioJ/tag/application/ 1 6064 0 0
+/wp-admin/import.php 5 57565 0 0
+/MayonesioJ/etiam-vitae-eros-vel-enim-auctor-venenatis/ 1 7234 0 0
+/category/productos/racores/ 3 22387 1 1
+/deleteme.wp0tho.php 1 6168 0 1
+/wp-admin/link.php 1 15471 0 0
+/blog/wp-admin/upgrade.php 1 1420 0 0
+/MayonesioJ/home-mockup-caroseul/ 3 63568 0 1
+/blog/deleteme.a6b81d80d02e421581e6e81b83108d7d.php 1 196 0 1
+/home-parallax/pencil/ 1 3923 0 0
+/wp-admin/customize.php 30 1925864 0 0
+/wp-login.php 5 15003 0 0
+/MayonesioJ/ctc-to-showcase-technology-solutions-at-sea/ 1 7284 0 0
+/filtro-codo/ 5 42588 0 0
+/MayonesioJ/feed/ 1 2758 0 0
+/deleteme.wpkkps.php 1 4455 0 0
+/deleteme.chauhhj1.php 1 2583 1 0
+/blog/wp-admin/plugin-install.php 2 30228 0 0
+/blog/wp-admin/load-styles.php 2 168770 0 0
+/mayoj/ 8 14649 0 0
+/blog/wp-admin/themes.php 2 23442 0 0
+/MayonesioJ/comments/feed/ 1 1366 0 0
+/wp-admin/theme-install.php 3 35187 0 0
+/deleteme.wpwzfh.php 1 7551 0 1
+/union-rh/ 2 16673 0 0
+/deleteme.wpj3zk.php 1 7278 0 1
+/wp-admin/plugin-install.php 15 237866 0 0
+/deleteme.chaefkhr.php 1 2583 0 0
+/deleteme.chah9du8.php 1 2583 1 0
+/deleteme.chaukpqm.php 1 2583 1 0
+/deleteme.chakj3as.php 1 2583 0 0
+/blog/wp-admin/plugins.php 5 59079 0 0
+/wp-admin/profile.php 7 91581 0 0
+/MayonesioJ/tag/jquery/ 1 6163 0 0
+/.well-known/acme-challenge/or5YKwh4o3yn0OTLluJlqTJwuTvgRpcCsIWJ32L0k3I 1 405 0 1
+/MayonesioJ/vestibulum-nisi-neque-iaculis-sed-tristique/ 2 17451 0 0
+/deleteme.wphjrt.php 1 269 0 0
+/wp-admin/update.php 2 12793 0 0
+/codo-rosca-macho-corto/ 5 37812 0 0
+/deleteme.b55fc5a84f9f49f79c9c564f9b69107e.php 1 196 0 1
+/category/productos/fittings/ 4 38122 0 0
+/codo-rs/ 1 8357 0 0
+/wp-admin/themes.php 33 399295 0 0
+/wp-admin/options-discussion.php 3 41209 0 0
+/wp-admin/options-general.php 15 330809 0 0
+/codo-rosca-macho-2/ 1 4093 0 0
+/blog/wp-admin/update.php 1 6676 0 0
+/MayonesioJ/category/photography/ 1 6050 0 0
+/deleteme.chael5r3.php 1 2583 1 0
+/MayonesioJ/category/design/ 1 6074 0 0
+/blog/deleteme.cha8aiq0.php 1 2591 0 0
+/inicio-2/ 1 12306 0 0
+/deleteme.chafmsi7.php 1 2583 1 0
+/etiam-vitae-eros-vel-enim-auctor-venenatis/ 5 45925 0 0
+/deleteme.cha0hw0o.php 1 2583 0 0
+/MayonesioJ/2017/03/ 1 6181 0 0
+/deleteme.chaoubkl.php 1 2583 1 0
+/manguito-union/ 1 8275 0 0
+/deleteme.wpjk5c.php 1 6168 0 1
+/wp-admin/tools.php 3 29843 0 0
+/deleteme.wpo8y6.php 1 6689 0 1
+/deleteme.wp1yra.php 1 5626 0 1
+/wp-admin/ 18 357623 1 0
+/MayonesioJ/nunc-eros-urna-porttitor-ac-ipsum-quis-sagittis-mollis-dui/ 3 22600 0 0
+/wp-content/plugins/js_composer/assets/fonts/vc_icons_v2/fonts/vcpb-plugin-icons.ttf 17 61104 0 0
+/blog/wp-admin/load-scripts.php 11 372781 0 1
+/MayonesioJ/tag/css3/ 1 6077 0 0
+/blog/deleteme.wpwzjo.php 1 269 0 0
+/wp-admin/user-edit.php 4 59782 0 0
+/wp-admin/plugins.php 26 416349 0 0
+/reduccion/ 3 35123 0 0
+/blog/wp-admin/admin-ajax.php 36 121594 0 0
+/te-enlace/ 2 17338 0 0
+/MayonesioJ/ 31 373599 0 0
+/deleteme.wpajda.php 1 4455 0 1
+/deleteme.wpehcq.php 1 7278 0 1
+/category/productos/ 1 7168 0 0
+/wp-admin/widgets.php 3 134833 0 0
+/blog/wp-admin/options-writing.php 1 8455 0 0
+/wp-admin/nav-menus.php 25 611762 0 0
+/deleteme.charjf3n.php 1 2583 0 0
+/deleteme.cha1a24c.php 1 2583 1 0
+/wp-admin/upgrade.php 2 2784 0 0
+/deleteme.chakdmbc.php 1 2583 1 0
+/MayonesioJ/tag/html/ 1 6079 0 0
+/MayonesioJ/at-the-end-of-the-day-or-at-the-start-of-the-day/ 1 6262 0 0
+/vestibulum-nisi-neque-iaculis-sed-tristique/ 3 28573 0 0
+/blog/wp-admin/ 1 17563 0 0
+/blog/deleteme.c74e3b8a255140589f44d80ce7a94039.php 1 196 0 0
+/MayonesioJ/2017/02/ 1 5789 0 0
+/deleteme.chalvekj.php 1 2583 1 0
+/blog/wp-admin/profile.php 3 31363 0 0
+/wp-admin/revision.php 2 37161 0 0
+/wp-admin/upload.php 30 674878 0 0
+/deleteme.wpz3jz.php 1 6168 0 1
+/wp-json/contact-form-7/v1/contact-forms/127 14 28047 0 0
+/home-text-carousel/ 2 24382 0 0
+/MayonesioJ/author/admin-2/ 1 6293 0 1
+/deleteme.chac6pes.php 1 2583 1 0
+/MayonesioJ/category/branding/ 1 6047 0 0
+/blog/deleteme.charqk0n.php 1 2591 0 0
+/MayonesioJ/lorem-ipsum-dolor-sit-amet-one/ 1 7633 0 0
+/inicio/ 1 11607 0 0
+/nunc-eros-urna-porttitor-ac-ipsum-quis-sagittis-mollis-dui/ 2 16896 0 0
+/MayonesioJ/wp-json/ 1 5428 0 0
+/wp-admin/options-reading.php 9 113748 0 0
+/deleteme.wpcno4.php 1 4455 0 1
+/deleteme.chaflbim.php 1 2583 0 0
+/deleteme.14e7163281e94bd9b41c913d9d0959f2.php 1 196 0 0
+/blog/deleteme.wpdq3p.php 1 2802 0 0
+/blog/ 3 88731 1 1
+/blog/deleteme.chaifvpy.php 1 2591 1 0
+/tapon-rs/ 6 51941 0 0
+/deleteme.chatsa88.php 1 2583 0 0
+/wp-admin/edit-tags.php 10 151250 0 0
+/deleteme.47138873f9ec4811bcb98816be076390.php 1 196 0 0
+/te-asimetrica/ 1 8303 0 0
+/deleteme.cha2yzjh.php 1 2583 1 0
+/deleteme.wpxpid.php 1 6168 0 1
+/wp-admin/options-permalink.php 2 26551 0 0
+/wp-admin/options-writing.php 3 38849 0 0
+/wp-admin/options-media.php 3 36126 0 0
+/wp-json/contact-form-7/v1/contact-forms/211 1 2095 0 0
+/blog/deleteme.cha7sdrs.php 1 2591 1 0
+/deleteme.wpvk6b.php 1 269 0 0
+/wp-admin/edit-comments.php 2 36114 0 0
+/home-parallax/ 25 261763 0 0
+/deleteme.wpki8a.php 1 2802 0 0
+/deleteme.3a941c447a2e4f38bb87dd91b7a08f00.php 1 196 0 1
+/deleteme.wpldvy.php 1 2802 0 0
+END_SIDER

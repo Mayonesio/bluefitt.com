@@ -1,0 +1,1961 @@
+# Webalizer V2.23-08 Incremental Data - 02/10/2023 00:00:25
+2023 2 10 0 0 25
+3314 2545 372 220 61 83 145424468 604 356 0
+1 1 443 1 10
+373 319 18679897 54 60 39
+453 401 17632488 93 121 55
+390 337 13887472 36 71 33
+204 162 7252364 38 46 35
+245 192 4334036 40 54 37
+698 332 43135368 36 63 43
+333 265 12461720 83 69 47
+316 271 13946257 36 68 27
+301 265 13947499 47 52 40
+1 1 147367 1 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+72 58 1023810 20
+22 13 3229770 9
+29 25 420380 10
+96 78 3896801 12
+99 95 2929754 7
+70 52 3366888 8
+50 34 462418 16
+12 10 602956 2
+144 135 5343236 16
+121 100 3119905 39
+362 267 7395997 106
+151 139 11470056 18
+52 42 3432030 30
+46 19 488954 16
+271 241 11086765 40
+53 38 2612296 25
+229 214 12845879 22
+47 27 1641696 17
+191 170 5468521 29
+158 139 7788722 49
+542 207 32724744 32
+254 234 17918023 47
+40 20 2502318 20
+203 188 3652549 14
+0
+0
+0
+2545
+0
+0
+0
+0
+0
+6
+0
+310
+3
+0
+15
+0
+0
+0
+0
+0
+62
+373
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/ch082.html
+0 4 0 51306 4 1
+/images/intro-product-11-03.png
+0 1 0 919231 0 0
+/images/logo-white.png
+0 22 0 61257 0 0
+/images/empresa1.png
+0 3 0 1739190 0 0
+/images/agrocan.png
+0 11 0 1406713 0 0
+/images/bf21101.jpg
+0 1 0 39094 0 0
+/images/ch043fl.png
+0 3 0 422046 0 0
+/docu/Cat2019BlueFitt.pdf
+0 5 0 8120297 0 0
+/images/ch072.png
+0 3 0 477723 0 0
+/css/font-awesome.min.css
+0 30 0 190759 0 0
+/js/text-effect.js
+0 35 0 73582 0 0
+/js/jquery.min.js
+0 35 0 1046655 0 0
+/css/settings.css
+0 29 0 341780 0 0
+/images/intro-product-04-02.png
+0 1 0 2219 0 0
+/js/qcast.js
+0 36 0 68947 0 0
+/ch033.html
+0 2 0 26104 1 2
+/contact2.php
+0 6 0 2126 0 0
+/sitemap.xml
+0 14 0 29136 0 0
+/images/52.png
+0 3 0 1350660 0 0
+/images/intro-product-11-04.png
+0 1 0 555572 0 0
+/ch052.html
+0 4 0 30194 4 3
+/ch043fl.html
+0 3 0 30775 3 3
+/images/recomend.png
+0 7 0 112406 0 0
+/js/jquery.viewport.mini.js
+0 23 0 22522 0 0
+/filtroproducto.html
+0 5 0 123314 1 0
+/js/jquery-latest.min.js
+0 17 0 664455 0 0
+/js/owl.carousel.min.js
+0 36 0 250726 0 0
+/css/text-effect.css
+0 39 0 135178 0 0
+/css/extralayers.css
+0 34 0 165438 0 0
+/images/timer.png
+0 1 0 14715 0 0
+/images/manguitab.png
+0 2 0 19402 0 0
+/js/jquery.easing.1.3.js
+0 36 0 89482 0 0
+/images/ch070.png
+0 1 0 159649 0 0
+/images/codotab.png
+0 7 0 76692 0 0
+/ch021.html
+0 3 0 34797 3 2
+/contact3.php
+0 7 0 6473 0 0
+/norecibido.html
+0 3 0 15225 0 0
+/js/page-scroll.js
+0 34 0 172603 0 0
+/ch004.html
+0 6 0 64741 6 2
+/images/parallax2.jpg
+0 9 0 378945 0 0
+/js/skrollr.min.js
+0 39 0 228825 0 0
+/images/apple-touch-icon-72x72.png
+0 3 0 20303 0 0
+/images/ch091+b.png
+0 1 0 132188 0 0
+/webmail/
+0 2 0 16704 0 0
+/ch043fc.html
+0 2 0 21806 2 1
+/ch012.html
+0 1 0 12930 1 1
+/images/ch031+b.png
+0 1 0 184753 0 0
+/js/jquery.revolution.js
+0 37 0 1629123 0 0
+/js/bootstrap.js
+0 41 0 541660 0 0
+/privacidad.html
+0 7 0 125969 1 1
+/images/favicon.png
+0 25 0 68528 0 0
+/images/productos1.png
+0 12 0 1081080 0 0
+/empresaIntro.html
+0 11 0 105748 1 0
+/js/modernizr.js
+0 36 0 148687 0 0
+/bf21101.html
+0 2 0 26162 2 2
+/ch002.html
+0 3 0 26244 2 1
+/images/intro-product-11-05.png
+0 1 0 45636 0 0
+/ch060.html
+0 2 0 19928 5 1
+/images/tuerca.png
+0 7 0 300223 0 0
+/images/slider2.jpg
+0 7 0 236299 0 0
+/images/ch042+b.png
+0 3 0 549093 0 0
+/ch030.html
+0 3 0 30888 1 1
+/fonts/fontawesome-webfont.woff
+0 4 0 286960 0 0
+/images/ch060+b.png
+0 2 0 292351 0 0
+/images/intro-product-logo.png
+0 1 0 2114 0 0
+/images/ch040+b.png
+0 2 0 363746 0 0
+/images/apple-touch-icon-57x57.png
+0 3 0 19298 0 0
+/images/icon-zoom-white.png
+0 11 0 3830 0 0
+/images/ch011+b.png
+0 1 0 173787 0 0
+/landingbf.html
+0 5 0 49453 4 0
+/images/ch023.png
+0 4 0 622900 0 0
+/images/empresa4.png
+0 3 0 1024485 0 0
+/js/jquery.countTo.js
+0 30 0 47260 0 0
+/fonts/et-line.woff
+0 30 0 1659615 0 0
+/ch001.html
+0 1 0 8381 0 1
+/images/teuniontab.png
+0 2 0 19995 0 0
+/codoproducto.html
+0 7 0 110584 3 3
+/images/ch041.png
+0 1 0 147367 0 0
+/js/popup-gallery.js
+0 35 0 81707 0 0
+/images/ch043fc+b.png
+0 1 0 117111 0 0
+/images/productos2.png
+0 11 0 877921 0 0
+/images/ch050.png
+0 2 0 338156 0 0
+/images/ch004.png
+0 4 0 615112 0 0
+/images/ch003c.png
+0 1 0 174055 0 0
+/js/jquery.magnific-popup.min.js
+0 34 0 271697 0 0
+/images/arrow-pre.png
+0 9 0 138348 0 0
+/js/counter.js
+0 37 0 93661 0 0
+/js/classie.js
+0 39 0 40892 0 0
+/ch041fc.html
+0 1 0 13000 2 2
+/js/bootstrap-hover-dropdown.js
+0 18 0 38022 0 0
+/js/jquery.isotope.min.js
+0 39 0 409798 0 0
+/images/ch012+b.png
+0 2 0 272572 0 0
+/images/intro-product-bg.png
+0 2 0 95074 0 0
+/images/reductab.png
+0 2 0 17424 0 0
+/images/ch033.png
+0 2 0 426490 0 0
+/images/empresapage.png
+0 3 0 115266 0 0
+/images/producLi4.png
+0 3 0 1805322 0 0
+/js/jquery.easypiechart.js
+0 29 0 92173 0 0
+/images/ch002c.png
+0 3 0 535968 0 0
+/ch031fl.html
+0 1 0 8811 1 1
+/images/ch011.png
+0 3 0 644448 0 0
+/images/intro-product-11-02.png
+0 1 0 1189397 0 0
+/css/animate.css
+0 31 0 133691 0 0
+/images/icon-zoom-out.png
+0 4 0 4796 0 0
+/fonts/fontawesome-webfont.woff2
+0 25 0 1424831 0 0
+/images/ch020+b.png
+0 2 0 290448 0 0
+/ch031fc.html
+0 2 0 25070 3 3
+/ch023fl.html
+0 1 0 8706 0 1
+/docu/Cat2021BlueFitt.pdf
+0 6 0 14898221 0 0
+/ch001c.html
+0 1 0 8730 1 1
+/css/menu-hamburger.css
+0 34 0 52488 0 0
+/images/ch004cfl+b.png
+0 4 0 492292 0 0
+/images/teasimtab.png
+0 2 0 22386 0 0
+/css/owl.carousel.css
+0 35 0 41557 0 0
+/images/ch050+b.png
+0 1 0 159696 0 0
+/ch090.html
+0 1 0 8732 2 0
+/images/ch071+b.png
+0 1 0 135339 0 0
+/images/ch043fl+b.png
+0 2 0 244356 0 0
+/css/owl.transitions.css
+0 36 0 41926 0 0
+/js/smooth-scroll.js
+0 30 0 51195 0 0
+/js/one-page-main.js
+0 24 0 17765 0 0
+/sound/intro03.mp3
+0 5 0 9901982 0 0
+/js/jquery.tools.min.js
+0 30 0 1035757 0 0
+/ch033fc.html
+0 1 0 8772 0 1
+/images/ch021.png
+0 1 0 188290 0 0
+/images/ch043.png
+0 1 0 147372 0 0
+/images/magriser.png
+0 11 0 365299 0 0
+/css/style.css
+0 39 0 1164870 0 0
+/images/ch003+b.png
+0 2 0 258560 0 0
+/css/et-line-icons.css
+0 39 0 81421 0 0
+/fonts/fontawesome-webfont.ttf
+0 4 0 287720 0 0
+/js/jquery.appear.js
+0 36 0 52958 0 0
+/ch004c.html
+0 1 0 8727 0 1
+/js/main.js
+0 34 0 286662 0 0
+/ch080.html
+0 1 0 4281 1 1
+/images/ch002+b.png
+0 3 0 273508 0 0
+/ch004fc.html
+0 4 0 33624 3 2
+/images/intro-product-02-04.png
+0 1 0 55402 0 0
+/images/ch031fc.png
+0 2 0 523980 0 0
+/images/ch082.png
+0 1 0 181709 0 0
+/ch002fl.html
+0 4 0 34382 4 3
+/ch042.html
+0 2 0 25976 1 2
+/images/productos6.png
+0 11 0 731676 0 0
+/ch022.html
+0 1 0 8721 3 1
+/images/ch003c+b.png
+0 8 0 822622 0 0
+/images/apple-touch-icon-114x114.png
+0 8 0 54679 0 0
+/images/parallaxcatalogo.png
+0 9 0 18002736 0 0
+/images/ch030+b.png
+0 5 0 683080 0 0
+/images/ch001.png
+0 3 0 579240 0 0
+/images/aplicaciones2.jpg
+0 1 0 49223 0 0
+/images/ch004cfl.png
+0 1 0 248247 0 0
+/js/jquery.parallax-1.1.3.js
+0 42 0 66349 0 0
+/ch043.html
+0 2 0 21766 1 0
+/images/logo-light-medium.png
+0 19 0 78638 0 0
+/ch021fc.html
+0 1 0 12908 1 1
+/ch050.html
+0 1 0 8196 0 1
+/ch040.html
+0 3 0 30343 6 1
+/images/intro-product-11-01.png
+0 1 0 445483 0 0
+/ch033fl.html
+0 2 0 17286 2 2
+/images/icon-zoom2.png
+0 7 0 6405 0 0
+/manguitoproducto.html
+0 5 0 73250 2 2
+/images/productos5.png
+0 13 0 573885 0 0
+/images/arrow-next.png
+0 9 0 138474 0 0
+/css/bootstrap.css
+0 39 0 750856 0 0
+/fl301418.html
+0 1 0 12458 1 1
+/ch003.html
+0 8 0 83702 8 4
+/images/ch004+b.png
+0 4 0 547016 0 0
+/empresa.html
+0 25 0 163331 11 7
+/ch071.html
+0 3 0 17276 3 3
+/images/ch022.png
+0 3 0 574911 0 0
+/images/ch003.png
+0 1 0 165176 0 0
+/contactUs.html
+0 29 0 264960 11 2
+/images/empresa2.png
+0 3 0 1699764 0 0
+/images/logo-light.png
+0 22 0 68024 0 0
+/ch092.html
+0 1 0 12705 4 1
+/images/termachotab.png
+0 2 0 22262 0 0
+/ch032.html
+0 6 0 65347 6 2
+/images/ch092.png
+0 3 0 391887 0 0
+/css/full-slider.css
+0 36 0 31420 0 0
+/
+0 149 0 4721426 165 27
+/ch023.html
+0 1 0 8721 0 0
+/images/ch023fc.png
+0 3 0 600903 0 0
+/js/cookies.js
+0 17 0 11229 0 0
+/images/intro-product-01-02.png
+0 1 0 6383 0 0
+/images/intro-product-09-05.png
+0 1 0 1887 0 0
+/precios.html
+0 6 0 75728 2 1
+/ch020.html
+0 4 0 47544 4 4
+/js/jquery.fitvids.js
+0 33 0 52172 0 0
+/taponproducto.html
+0 5 0 69364 2 1
+/ch041.html
+0 6 0 64616 6 4
+/testimonials.html
+0 3 0 22737 2 2
+/images/orbes.png
+0 12 0 1642179 0 0
+/reduproducto.html
+0 4 0 62965 2 2
+/teproducto.html
+0 7 0 122092 2 0
+/robots.txt
+0 61 0 173109 0 0
+/js/hamburger-menu.js
+0 36 0 33137 0 0
+/images/ch030.png
+0 4 0 993399 0 0
+/ch045.html
+0 2 0 25976 2 2
+/images/codocorttab.png
+0 4 0 54334 0 0
+/images/parallaxcatalogo.jpg
+0 11 0 1025112 0 0
+/js/wow.min.js
+0 42 0 134353 0 0
+/images/ch042.png
+0 1 0 201592 0 0
+/conectorproducto.html
+0 5 0 67956 3 2
+/images/scarabelli.png
+0 10 0 537262 0 0
+/ch091.html
+0 1 0 12945 1 1
+/images/ch002.png
+0 5 0 770890 0 0
+/images/ch091.png
+0 2 0 318304 0 0
+/images/machontab.png
+0 1 0 8694 0 0
+/images/ch032+b.png
+0 3 0 512349 0 0
+/images/ch012.png
+0 3 0 528489 0 0
+/images/ch032.png
+0 2 0 298616 0 0
+/css/responsive.css
+0 38 0 499867 0 0
+/images/icon-zoom.png
+0 8 0 9832 0 0
+/images/intro-product-05-01.png
+0 1 0 473864 0 0
+/css/style-svg.css
+0 14 0 18508 0 0
+/css/magnific-popup.css
+0 37 0 129670 0 0
+/images/fl301418.jpg
+0 1 0 25761 0 0
+/js/imagesloaded.pkgd.min.js
+0 39 0 110343 0 0
+/images/Slider2.png
+0 11 0 25495195 0 0
+/productos.html
+0 13 0 174839 8 5
+# End Of Table - urls
+# -sites- (monthly)
+93.158.161.58
+0 2 0 11469 0 0
+-
+35.92.18.140
+0 3 1 22602 1 1675418997
+/
+17.22.245.19
+0 1 1 13157 0 0
+-
+35.190.204.246
+0 1 0 423 1 1675763928
+/
+54.194.132.114
+0 1 0 4445 1 1675793308
+/
+17.241.219.89
+0 1 1 140855 0 0
+-
+93.158.90.73
+0 1 0 4999 0 0
+-
+173.239.254.13
+0 1 1 65439 1 1675871482
+/
+18.246.21.35
+0 2 1 14541 1 1675940240
+/
+17.246.19.234
+0 1 1 3300 0 0
+-
+34.254.63.178
+0 2 1 65881 1 1675374629
+/
+3.87.53.40
+0 2 1 65681 1 1675286850
+/
+17.22.237.193
+0 1 1 1338 0 0
+-
+64.124.8.44
+0 4 1 17911 1 1675347194
+-
+194.169.160.62
+0 2 1 10529 1 1675758308
+/
+17.22.253.27
+0 1 1 2375 0 0
+-
+17.246.19.248
+0 1 1 9610 0 0
+-
+17.241.75.243
+0 1 1 9034 1 1675548248
+/empresaIntro.html
+17.246.19.99
+0 1 1 30183 0 0
+-
+17.241.75.5
+0 1 1 12370 1 1675282266
+/ch003.html
+95.163.255.86
+0 2 0 9650 1 1675387252
+/
+64.124.8.59
+0 4 1 17911 1 1675536810
+-
+154.22.125.166
+0 2 1 65850 1 1675793169
+/
+34.220.87.22
+0 4 1 19980 1 1675940262
+/
+35.187.31.229
+0 1 0 423 1 1675355099
+/
+17.22.237.158
+0 1 1 30183 0 0
+-
+17.22.237.100
+0 1 1 917 0 0
+-
+95.163.255.227
+0 1 0 5190 1 1675623110
+/ch090.html
+189.250.39.34
+0 1 1 10956 0 0
+-
+54.187.88.148
+0 2 1 18349 1 1675940863
+/
+102.221.239.27
+0 52 52 2428535 1 1675959114
+/contactUs.html
+52.213.3.154
+0 16 15 133298 1 1675329782
+/
+190.85.45.97
+0 2 2 273147 0 0
+-
+52.12.160.98
+0 3 1 14986 1 1675419764
+/
+93.158.90.74
+0 2 1 4681 0 0
+-
+17.241.227.140
+0 2 2 12763 1 1675699553
+/ch003.html
+95.163.255.60
+0 1 0 5190 1 1675694979
+/ch060.html
+35.165.95.41
+0 2 1 18349 1 1675765935
+/
+17.22.237.170
+0 1 1 2986 0 0
+-
+54.149.116.103
+0 3 1 22602 1 1675765961
+/
+40.77.188.192
+0 1 1 55448 0 0
+-
+17.246.23.49
+0 1 1 1212 0 0
+-
+85.62.13.219
+0 61 61 3464270 1 1675500711
+/
+173.239.254.25
+0 1 0 442 1 1675871481
+/
+17.22.245.73
+0 2 2 21025 0 0
+-
+37.1.214.127
+0 2 1 10568 1 1675211213
+/
+17.22.245.156
+0 1 1 1565 0 0
+-
+54.189.168.48
+0 2 1 65681 1 1675367942
+/
+190.61.45.229
+0 57 57 800100 1 1675715877
+/ch004.html
+40.77.189.207
+0 1 1 56973 0 0
+-
+35.90.175.174
+0 2 1 65681 1 1675960757
+/
+17.241.227.124
+0 1 1 9889 1 1675778572
+/precios.html
+17.22.237.227
+0 1 1 8142 0 0
+-
+149.56.150.18
+0 66 65 3612025 1 1675868149
+/
+46.222.168.35
+0 50 50 2423355 1 1675338817
+/contactUs.html
+193.235.141.90
+0 4 2 28866 1 1675566842
+/
+90.167.94.169
+0 1 1 25761 0 0
+-
+64.124.8.42
+0 4 1 17911 1 1675401373
+-
+34.105.219.249
+0 2 1 65950 1 1675450142
+/
+213.180.203.183
+0 1 0 6027 0 0
+-
+185.128.212.227
+0 2 0 5750 0 0
+-
+17.22.237.29
+0 2 2 5430 0 0
+-
+66.249.64.213
+0 2 0 1006 2 1675951089
+-
+3.239.0.173
+0 2 0 10844 0 0
+-
+95.163.255.88
+0 1 0 6161 0 0
+-
+17.246.15.22
+0 1 1 1360 0 0
+-
+54.81.71.147
+0 2 1 69463 1 1675802287
+/
+17.22.253.62
+0 1 1 1844 0 0
+-
+35.92.114.87
+0 2 1 14541 1 1675765931
+/
+45.138.101.53
+0 2 1 4963 0 0
+-
+46.101.131.102
+0 22 20 5140764 1 1675459872
+/privacidad.html
+52.88.199.24
+0 2 1 65681 1 1675704323
+/
+213.180.203.190
+0 1 0 6027 0 0
+-
+17.246.19.149
+0 1 1 4055 0 0
+-
+17.241.219.102
+0 1 1 14118 1 1675922714
+/
+17.22.253.190
+0 1 1 13187 0 0
+-
+222.110.52.11
+0 2 0 5760 0 0
+-
+95.163.255.1
+0 2 0 10378 1 1675598328
+/ch092.html
+74.125.213.54
+0 1 0 5246 0 0
+-
+201.49.157.132
+0 70 69 3622703 1 1675263091
+/
+74.125.213.52
+0 1 0 5246 0 0
+-
+157.55.39.204
+0 10 9 2345494 1 1675213156
+/
+66.249.93.90
+0 1 0 5246 0 0
+-
+54.213.174.61
+0 2 1 65681 1 1675367942
+/
+201.204.197.74
+0 63 63 5010590 1 1675974521
+/empresa.html
+20.79.91.110
+0 146 140 7289394 1 1675286090
+/
+17.22.245.170
+0 1 1 834 0 0
+-
+17.241.75.218
+0 1 1 57373 0 0
+-
+40.77.167.251
+0 29 26 789215 1 1675382042
+/ch043.html
+207.46.13.16
+0 2 1 823 0 0
+-
+34.221.230.126
+0 2 1 14541 1 1675332967
+/
+17.22.253.78
+0 1 1 29955 0 0
+-
+195.57.85.2
+0 1 1 132188 0 0
+-
+17.246.19.179
+0 1 1 1071 0 0
+-
+190.223.58.225
+0 2 2 310448 0 0
+-
+95.163.255.199
+0 1 0 6161 0 0
+-
+93.159.230.87
+0 6 3 55047 3 1675546212
+/
+54.236.1.13
+0 2 0 9342 1 1675777873
+-
+95.163.255.216
+0 1 0 6161 0 0
+-
+17.241.75.217
+0 1 1 14118 1 1675502979
+/
+34.79.114.255
+0 1 0 423 1 1675968549
+/
+17.22.253.74
+0 1 1 2891 0 0
+-
+35.91.138.147
+0 4 1 19980 1 1675765970
+/
+31.148.131.70
+0 1 1 1825152 0 0
+-
+95.163.255.225
+0 2 0 9650 1 1675938056
+/
+147.161.128.99
+0 2 2 319712 0 0
+-
+35.166.148.83
+0 1 0 4231 1 1675332968
+/
+95.108.213.105
+0 1 0 6027 0 0
+-
+17.241.219.32
+0 1 1 10372 1 1675414521
+/productos.html
+35.219.139.221
+0 4 2 15799 1 1675260803
+/
+17.22.245.87
+0 1 1 10750 0 0
+-
+34.140.115.72
+0 2 1 65850 1 1675559454
+/
+84.38.132.126
+0 1 1 14133 1 1675435055
+/
+34.209.250.248
+0 3 1 14986 1 1675246416
+/
+95.163.255.238
+0 2 0 11351 1 1675549315
+/ch060.html
+17.241.227.175
+0 1 1 14118 1 1675378282
+/
+54.236.1.11
+0 20 7 75810 6 1675871693
+/
+31.148.131.88
+0 1 1 1825152 0 0
+-
+93.158.90.67
+0 1 0 5002 0 0
+-
+95.108.213.152
+0 1 0 6027 0 0
+-
+34.78.251.18
+0 2 1 4407 1 1675879402
+/landingbf.html
+40.77.202.177
+0 3 3 57724 0 0
+-
+17.246.15.7
+0 1 1 10750 0 0
+-
+17.22.237.155
+0 1 1 34532 0 0
+-
+95.108.213.160
+0 1 0 4996 0 0
+-
+13.80.183.173
+0 3 2 71548 1 1675762591
+/
+17.241.227.37
+0 2 2 10141 1 1675334742
+/empresa.html
+17.22.253.155
+0 1 1 1217 0 0
+-
+20.10.15.213
+0 1 0 423 1 1675875628
+/
+20.10.15.51
+0 1 1 14313 1 1675875940
+/
+181.174.67.76
+0 65 65 1838163 1 1675985431
+/ch032.html
+84.17.52.40
+0 3 2 70172 1 1675368696
+/
+63.34.179.201
+0 3 2 30121 2 1675375512
+/landingbf.html
+66.249.70.113
+0 1 0 479 1 1675212218
+/
+35.89.222.221
+0 2 1 14541 1 1675594388
+/
+54.201.169.242
+0 2 1 18349 1 1675851755
+/
+35.93.155.15
+0 1 0 4253 0 0
+-
+17.241.227.136
+0 1 1 12763 1 1675489772
+/ch040.html
+173.239.254.38
+0 1 1 65439 1 1675871545
+/
+88.198.65.172
+0 33 32 255434 1 1675626409
+/
+34.239.142.179
+0 67 66 3616157 1 1675826915
+/
+40.77.190.148
+0 1 1 55448 0 0
+-
+17.22.237.49
+0 2 2 10987 0 0
+-
+193.19.109.105
+0 1 1 65439 1 1675871544
+/
+157.55.39.223
+0 10 10 109329 0 0
+-
+17.22.237.167
+0 1 1 1515 0 0
+-
+207.46.13.104
+0 95 83 9528891 9 1675779910
+/ch032.html
+95.108.213.146
+0 1 0 4998 1 1675252024
+-
+130.185.93.189
+0 54 54 1100127 1 1675621846
+/ch003.html
+34.221.176.203
+0 3 1 14986 1 1675594406
+/
+54.148.131.160
+0 2 1 14541 1 1675851753
+/
+17.241.75.167
+0 1 1 12707 1 1675918268
+/ch082.html
+17.22.253.132
+0 1 1 2525 0 0
+-
+17.246.15.206
+0 1 1 691 0 0
+-
+17.241.75.122
+0 2 2 10505 1 1675905541
+/teproducto.html
+182.74.243.47
+0 2 2 22462 1 1675700803
+/landingbf.html
+109.248.205.7
+0 3 2 24883 1 1675412249
+/manguitoproducto.html
+17.22.245.18
+0 2 2 8802 0 0
+-
+195.53.57.97
+0 33 7 271469 2 1675777942
+/
+34.215.241.10
+0 4 1 19980 1 1675506577
+/
+65.108.51.60
+0 2 1 65670 1 1675799975
+/
+35.89.104.83
+0 1 1 65252 1 1675704979
+/
+207.46.13.71
+0 4 4 18190 0 0
+-
+35.89.35.137
+0 2 1 18349 1 1675594397
+/
+84.123.165.230
+0 473 152 33731471 3 1675719461
+/testimonials.html
+66.249.70.104
+0 1 0 4482 1 1675261944
+/
+185.82.72.10
+0 1 0 479 1 1675474742
+/
+40.77.202.91
+0 1 1 55295 0 0
+-
+66.249.70.116
+0 1 1 5685 0 0
+-
+209.127.97.125
+0 1 0 442 1 1675297748
+/
+52.167.144.76
+0 56 49 1133579 10 1675793688
+/contactUs.html
+17.241.227.231
+0 1 1 9748 1 1675769619
+/empresa.html
+157.55.39.74
+0 12 6 4938 0 0
+-
+17.246.23.111
+0 1 1 1844 0 0
+-
+17.246.15.114
+0 1 1 13157 0 0
+-
+188.26.209.46
+0 10 10 1021814 1 1675367267
+/productos.html
+66.249.64.210
+0 111 101 2006684 30 1675953137
+/
+17.241.219.109
+0 1 1 12766 1 1675916357
+/ch041.html
+95.108.213.173
+0 1 0 4264 1 1675291315
+/
+212.227.216.8
+0 15 15 11118 1 1675365396
+/empresa.html
+52.41.6.60
+0 10 7 58922 1 1675332704
+/privacidad.html
+93.108.12.30
+0 3 3 2236194 0 0
+-
+17.22.245.197
+0 1 1 1848 0 0
+-
+172.176.144.32
+0 2 1 18739 1 1675875207
+/
+66.249.70.118
+0 2 2 25988 1 1675877573
+/ch030.html
+17.241.227.245
+0 2 2 13206 1 1675442058
+/ch030.html
+122.155.3.106
+0 2 0 5862 1 1675736492
+-
+177.124.249.98
+0 1 1 47537 0 0
+-
+35.89.168.10
+0 2 0 8484 1 1675940918
+/
+95.163.255.87
+0 1 0 5188 0 0
+-
+72.14.201.220
+0 1 1 8732 1 1675362282
+/ch090.html
+40.77.202.128
+0 1 1 55295 0 0
+-
+54.213.160.42
+0 2 1 65681 1 1675704323
+/
+66.249.64.198
+0 1 1 12910 1 1675728843
+/ch002fl.html
+17.241.219.207
+0 2 2 10319 1 1675793824
+/contactUs.html
+54.213.70.66
+0 2 0 868 1 1675333542
+/
+35.90.217.6
+0 1 1 65252 1 1675783961
+/
+17.241.227.53
+0 1 1 12707 1 1675289121
+/ch082.html
+95.163.255.124
+0 1 0 4468 0 0
+-
+52.34.194.143
+0 1 1 65252 1 1675973639
+/
+17.22.253.193
+0 1 1 4055 0 0
+-
+17.246.23.176
+0 1 1 1565 0 0
+-
+95.163.255.230
+0 1 0 5190 1 1675622540
+/ch040.html
+213.180.203.95
+0 1 0 5006 1 1675320616
+/conectorproducto.html
+149.56.160.236
+0 17 12 479061 1 1675868135
+/
+17.246.15.250
+0 1 1 44369 0 0
+-
+77.48.28.236
+0 3 1 72046 1 1675349797
+/
+54.190.199.8
+0 3 1 22602 1 1675851781
+/
+35.91.17.180
+0 1 0 4253 0 0
+-
+170.81.254.222
+0 59 59 1323514 1 1675354182
+/ch022.html
+172.176.145.12
+0 1 0 423 1 1675874724
+/
+54.185.190.59
+0 2 1 18349 1 1675679930
+/
+66.249.70.114
+0 1 1 6728 0 0
+-
+95.108.213.141
+0 2 0 11017 1 1675314282
+/
+95.163.255.203
+0 1 0 6161 0 0
+-
+52.167.144.28
+0 92 81 5004006 9 1675945596
+/ch040.html
+54.189.34.156
+0 3 0 5862 1 1675851793
+/
+95.163.255.84
+0 2 0 11351 1 1675797829
+/ch092.html
+95.163.255.82
+0 2 0 11351 1 1675739689
+/ch060.html
+20.246.83.159
+0 2 1 14656 1 1675211127
+/
+95.108.213.131
+0 1 0 5006 1 1675242236
+-
+35.91.125.191
+0 2 1 14541 1 1675419139
+/
+95.163.255.228
+0 1 0 6161 0 0
+-
+17.246.15.124
+0 1 1 7856 0 0
+-
+177.155.126.35
+0 1 1 8712 0 0
+-
+17.246.23.61
+0 1 1 5929 0 0
+-
+189.239.9.244
+0 2 2 147349 0 0
+-
+128.14.188.212
+0 7 3 27244 1 1675593218
+-
+87.250.224.248
+0 1 0 5000 1 1675244328
+-
+95.163.255.212
+0 1 0 5188 0 0
+-
+212.119.41.76
+0 1 1 838899 0 0
+-
+54.234.127.149
+0 2 1 65681 1 1675972545
+/
+95.163.255.89
+0 1 0 6161 0 0
+-
+213.180.203.144
+0 1 0 4999 1 1675248784
+-
+170.51.165.27
+0 1 1 136393 0 0
+-
+66.249.64.196
+0 1 1 9805 0 0
+-
+207.46.13.32
+0 10 7 253079 1 1675221223
+-
+77.88.5.164
+0 20 0 92312 6 1675959183
+-
+31.134.96.139
+0 37 29 124381 1 1675850471
+/contactUs.html
+173.252.83.117
+0 2 1 10458 1 1675508101
+/contactUs.html
+54.75.96.73
+0 17 16 148528 1 1675339613
+/
+17.22.237.187
+0 1 1 44369 0 0
+-
+40.77.190.176
+0 1 1 55448 0 0
+-
+20.76.179.53
+0 4 2 21248 2 1675579677
+/
+198.20.191.112
+0 2 1 18849 1 1675730129
+/
+95.163.255.0
+0 2 0 10629 0 0
+-
+74.125.213.50
+0 2 0 10492 0 0
+-
+193.235.141.157
+0 4 2 28866 1 1675799285
+/
+81.43.74.173
+0 62 61 3465379 1 1675765238
+/
+45.130.151.22
+0 6 2 18768 1 1675340343
+/webmail/
+185.151.217.57
+0 179 179 4386152 2 1675418897
+/ch002.html
+138.246.253.24
+0 2 1 8821 0 0
+-
+107.152.238.62
+0 2 1 65689 1 1675934950
+/
+17.241.75.98
+0 1 1 12370 1 1675933959
+/ch003.html
+34.210.59.189
+0 1 1 65252 1 1675973060
+/
+17.22.237.172
+0 1 1 1071 0 0
+-
+3.83.107.15
+0 2 1 65681 1 1675367941
+/
+93.158.90.69
+0 1 1 4756 0 0
+-
+66.249.64.200
+0 1 0 4264 0 0
+-
+95.163.255.207
+0 1 0 5190 1 1675573631
+/ch040.html
+95.108.213.198
+0 1 0 6027 0 0
+-
+17.22.245.124
+0 1 1 5929 0 0
+-
+95.108.213.168
+0 2 0 10289 0 0
+-
+17.241.219.138
+0 1 1 12697 1 1675709430
+/ch004.html
+207.46.13.75
+0 8 8 56453 0 0
+-
+209.221.240.192
+0 1 1 147372 0 0
+-
+3.94.3.179
+0 2 1 69463 1 1675706557
+/
+35.92.96.119
+0 2 2 130504 2 1675368547
+/
+35.93.25.83
+0 4 1 19980 1 1675679862
+/
+35.89.250.103
+0 1 1 65252 1 1675704868
+/
+54.213.71.124
+0 2 1 14541 1 1675506548
+/
+178.22.51.217
+0 2 1 65881 1 1675672221
+/
+17.22.237.118
+0 1 1 3532 0 0
+-
+66.249.70.117
+0 3 0 1457 2 1675953133
+/
+40.77.189.53
+0 1 1 55295 0 0
+-
+35.166.140.115
+0 2 1 14541 1 1675419725
+/
+54.194.107.87
+0 1 1 65434 1 1675795873
+/
+173.239.254.17
+0 1 0 6165 0 0
+-
+49.49.218.254
+0 1 1 11441 1 1675306355
+/landingbf.html
+95.163.255.237
+0 1 0 6161 0 0
+-
+17.22.253.36
+0 1 1 5368 0 0
+-
+17.241.75.89
+0 2 2 12146 1 1675529591
+/ch060.html
+17.22.245.184
+0 1 1 7004 0 0
+-
+17.241.219.221
+0 1 1 12705 1 1675481973
+/ch092.html
+186.18.28.59
+0 1 1 8406 1 1675909646
+/ch004fc.html
+18.237.197.60
+0 2 1 65681 1 1675286850
+/
+17.22.253.133
+0 1 1 2025 0 0
+-
+52.39.83.19
+0 4 1 19980 1 1675419153
+/
+200.105.233.74
+0 1 1 181873 0 0
+-
+78.30.11.175
+0 1 1 7939 0 0
+-
+54.69.217.74
+0 2 1 18349 1 1675246367
+/
+35.90.183.75
+0 4 2 131362 2 1675972545
+/
+187.161.119.68
+0 1 1 147367 0 0
+-
+181.210.22.168
+0 1 1 153778 0 0
+-
+64.124.8.40
+0 4 2 11135 1 1675542378
+/taponproducto.html
+17.241.75.165
+0 1 1 12766 1 1675325204
+/ch041.html
+207.46.13.53
+0 55 47 3514980 4 1675807969
+/ch032.html
+35.90.187.96
+0 2 1 18349 1 1675418979
+/
+64.124.8.39
+0 4 1 17911 1 1675366590
+-
+17.22.245.49
+0 1 1 896 0 0
+-
+54.212.63.20
+0 2 1 18349 1 1675940308
+/
+66.249.64.209
+0 2 0 1004 1 1675696679
+-
+17.246.19.103
+0 1 1 7004 0 0
+-
+66.249.70.106
+0 4 0 17968 1 1675580429
+/
+17.246.19.126
+0 1 1 4980 0 0
+-
+17.22.253.103
+0 1 1 5813 0 0
+-
+34.217.56.147
+0 2 1 65681 1 1675783269
+/
+40.77.202.70
+0 1 1 55295 0 0
+-
+193.186.4.209
+0 1 1 8797 1 1675974673
+/ch043fc.html
+17.241.75.248
+0 1 1 9926 1 1675250767
+/contactUs.html
+193.186.4.62
+0 1 1 6486 1 1675356540
+/productos.html
+52.167.144.64
+0 162 137 3317650 18 1675810501
+/ch052.html
+51.255.91.211
+0 2 0 6790 0 0
+-
+93.158.90.72
+0 2 0 918 0 0
+-
+20.214.206.204
+0 2 1 14656 1 1675210143
+/
+17.22.253.156
+0 2 2 26048 0 0
+-
+17.246.19.160
+0 1 1 2525 0 0
+-
+23.229.29.201
+0 2 1 65689 1 1675460530
+/
+95.163.255.231
+0 1 0 4468 0 0
+-
+64.137.93.222
+0 1 1 10170 1 1675730137
+/contactUs.html
+34.209.64.94
+0 2 1 65681 1 1675972545
+/
+72.14.201.62
+0 1 1 10145 1 1675356538
+/
+93.158.90.66
+0 1 1 14125 1 1675517715
+/
+17.22.253.53
+0 1 1 4980 0 0
+-
+143.137.164.214
+0 1 1 14320 1 1675297749
+/
+46.6.12.244
+0 69 68 3618037 1 1675771045
+/
+54.202.224.126
+0 3 1 22602 1 1675594574
+/
+185.196.54.251
+0 2 1 14541 1 1675286521
+/
+114.119.137.101
+0 1 0 5187 1 1675578765
+-
+66.249.64.212
+0 80 77 3046051 18 1675953136
+/
+17.241.75.82
+0 1 1 10112 1 1675305789
+/teproducto.html
+80.29.202.187
+0 80 79 6207943 1 1675356578
+/empresa.html
+17.246.15.102
+0 2 2 18589 0 0
+-
+35.92.154.5
+0 2 1 65681 1 1675783269
+/
+216.244.66.228
+0 4 0 12912 0 0
+-
+188.79.135.96
+0 1 1 181709 0 0
+-
+35.87.181.81
+0 2 1 14541 1 1675679843
+/
+17.246.19.82
+0 1 1 8322 0 0
+-
+17.246.19.138
+0 1 1 5813 0 0
+-
+17.22.253.126
+0 2 2 8849 0 0
+-
+45.86.200.239
+0 1 1 65476 1 1675474743
+/
+40.77.189.241
+0 1 1 55295 0 0
+-
+34.219.101.101
+0 2 1 65675 1 1675763000
+/
+64.124.8.29
+0 2 1 5488 1 1675520575
+-
+40.77.189.101
+0 1 1 55448 0 0
+-
+17.22.237.226
+0 1 1 1360 0 0
+-
+17.22.253.251
+0 1 1 39250 0 0
+-
+17.246.23.243
+0 1 1 3447 0 0
+-
+17.241.75.153
+0 2 2 13105 1 1675241751
+/ch021.html
+54.186.227.170
+0 2 1 14541 1 1675246366
+/
+213.89.209.5
+0 2 1 18869 1 1675660109
+/
+34.220.239.237
+0 2 1 65681 1 1675286850
+/
+66.249.64.214
+0 47 42 614268 20 1675945834
+/ch043.html
+193.19.109.103
+0 1 0 6165 0 0
+-
+66.249.70.115
+0 2 0 978 1 1675953135
+/
+17.246.19.176
+0 1 1 22765 0 0
+-
+18.237.217.86
+0 1 1 65252 1 1675368346
+/
+190.117.98.197
+0 1 1 181446 0 0
+-
+17.22.253.95
+0 1 1 3300 0 0
+-
+35.87.21.81
+0 1 1 65252 1 1675287620
+/
+190.190.110.118
+0 51 51 2423738 1 1675865859
+/contactUs.html
+17.246.23.62
+0 2 2 4001 0 0
+-
+17.241.227.27
+0 1 1 12798 1 1675453055
+/ch032.html
+35.88.240.200
+0 4 1 27596 1 1675679943
+/
+95.163.255.85
+0 3 0 15819 1 1675753012
+/ch040.html
+35.89.94.161
+0 1 1 65252 1 1675762944
+/
+52.167.144.59
+0 22 14 7768 0 0
+-
+17.246.15.59
+0 2 2 3519 0 0
+-
+72.14.201.211
+0 2 2 16812 2 1675743756
+/ch004fc.html
+93.158.90.68
+0 2 0 904 1 1675517715
+/
+66.249.64.211
+0 3 0 1513 0 0
+-
+17.241.219.168
+0 1 1 10865 1 1675344845
+/privacidad.html
+# End Of Table - sites (monthly)
+# -sites- (daily)
+187.161.119.68
+0 1 1 147367 0 0
+-
+# End Of Table - sites (daily)
+# -referrers- 
+https://www.bluefitt.com/ch033.html
+0 3
+https://www.bluefitt.com/testimonials.html
+0 50
+http://bluefitt.com/robots.txt
+0 1
+https://www.bluefitt.com/css/font-awesome.min.css
+0 16
+https://www.bluefitt.com/ch091.html
+0 3
+https://www.bluefitt.com/fl301418.html
+0 3
+https://www.bluefitt.com/bf21101.html
+0 1
+https://www.bluefitt.com/ch043fc.html
+0 12
+https://bluefitt.com/favicon.ico
+0 1
+https://www.bluefitt.com/productos.html
+0 28
+https://www.bluefitt.com/empresa.html
+0 42
+https://www.galarza.pro/
+0 6
+https://www.bluefitt.com/ch030.html
+0 2
+https://www.bluefitt.com/ch004fc.html
+0 1
+https://www.bluefitt.com/precios.html
+0 55
+https://www.bluefitt.com/docu/Cat2021BlueFitt.pdf
+0 1
+https://www.bluefitt.com/ch033fl.html
+0 1
+http://bluefitt.com/ads.txt
+0 1
+https://www.bluefitt.com/index.html
+0 59
+https://www.google.com/
+0 26
+- (Direct Request)
+0 1251
+https://www.bluefitt.com/ch020.html
+0 1
+http://www.bluefitt.com/sitemap.xml
+0 2
+https://www.bluefitt.com/ch032.html
+0 2
+https://www.bluefitt.com/ch041.html
+0 3
+http://bluefitt.com/favicon.ico
+0 6
+https://www.bluefitt.com/ch043fl.html
+0 2
+https://www.bluefitt.com/ch052.html
+0 2
+https://www.bluefitt.com/ch021.html
+0 1
+https://www.bluefitt.com/ch042.html
+0 5
+http://bluefitt.com/
+0 7
+https://www.bluefitt.com/empresaIntro.html
+0 338
+https://www.bluefitt.com/css/et-line-icons.css
+0 22
+http://bluefitt.com
+0 13
+https://pe.images.search.yahoo.com/search/images
+0 1
+https://www.galarza.pro/6202c2.html
+0 1
+https://www.bing.com/
+0 8
+https://www.google.com/blank.html
+0 1
+https://bluefitt.com/sitemap.xml
+0 3
+https://www.bluefitt.com/ch002fl.html
+0 6
+https://www.bluefitt.com/codoproducto.html
+0 4
+http://www.bluefitt.com/ads.txt
+0 1
+https://www.bluefitt.com/teproducto.html
+0 4
+https://bluefitt.com
+0 11
+https://www.bluefitt.com/ch060.html
+0 1
+https://www.bluefitt.com/ch002.html
+0 104
+https://www.bluefitt.com/
+0 707
+https://www.google.com.gt/
+0 2
+https://www.bluefitt.com/css/style.css
+0 11
+https://www.bluefitt.com/ch045.html
+0 2
+https://www.bluefitt.com/ch022.html
+0 53
+https://www.bluefitt.com/ch003.html
+0 54
+https://www.bluefitt.com/contactUs.html
+0 227
+https://www.vaflow.es/
+0 1
+https://www.bluefitt.com/ch004.html
+0 106
+http://bluefitt.com/humans.txt
+0 1
+bluefitt.com
+0 6
+https://www.bluefitt.com/css/magnific-popup.css
+0 16
+https://www.bluefitt.com/conectorproducto.html
+0 2
+https://www.bluefitt.com/ch082.html
+0 13
+https://t.me/s/redditv
+0 1
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.137
+0 10
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/109.0
+0 53
+Mozilla/5.1 (Windows NT 6.0; WOW64) AppleWebKit/537.37 (KHTML, like Gecko) Chrome/58.0.1145.75 Safari/537.37
+0 2
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36
+0 2
+Mozilla/5.0 (iPhone; CPU iPhone OS 16_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.2 Mobile/15E148 Sa
+0 50
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 6.1; rv:60.0) Gecko/20100101 Firefox/60.0
+0 2
+Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:72.0) Gecko/20100101 Firefox/72.0
+0 2
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.3460.5 Safari/537.36
+0 1
+Mozilla/5.0 (Linux; Android 9; Redmi Note 8 Pro Build/PPR1.180610.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0
+0 1
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.157 Safari/537.36
+0 33
+Mozilla/5.0 (Linux; Android 10; SM-G981B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.162 Mobile Safari/537.36
+0 1
+Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.5414.101 Mobile
+0 147
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36
+0 3
+Mozilla/5.0 (compatible; NetcraftSurveyAgent/1.0; +info@netcraft.com)
+0 4
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36
+0 2
+Mozilla/5.0 (Linux; Android 11; SM-G780F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Mobile Safari/537.36
+0 80
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/534+ (KHTML, like Gecko) BingPreview/1.0b
+0 13
+Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Mobile Safari/537.36
+0 6
+Mozilla/5.0 (compatible; Dataprovider.com)
+0 82
+Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Mobile S
+0 5
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/88.0.4324.96 Safari/537.36 Edg/88.0.70
+0 1
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36
+0 22
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36
+0 5
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
+0 22
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36 eM Client/
+0 33
+Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+0 50
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36
+0 2
+python-requests/2.23.0
+0 2
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36
+0 2
+Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36
+0 2
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36
+0 37
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.1 Safari/605.1.15
+0 2
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36
+0 6
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/99.0.4844.0 Safari/537.36
+0 67
+Mozilla/5.0 (iPhone; CPU iPhone OS 16_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Mobile/15E148 Sa
+0 65
+Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.72 Safari/537.36
+0 6
+Apache-HttpClient/4.5.5 (Java/11.0.9)
+0 2
+Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; Googlebot/2.1; +http://www.google.com/bot.html) Chrome/109.0.5
+0 38
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36
+0 4
+Java/1.8.0_352
+0 15
+Googlebot-Image/1.0
+0 23
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+0 3
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.1 Safari/605.1.15 (Appl
+0 109
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.94 Safari/537.36
+0 4
+Mozilla/5.0 (Macintosh; Intel Mac OS X 12_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36 Edg/103.0.
+0 3
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+0 146
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36
+0 91
+Mozilla/5.0 (iPhone; CPU iPhone OS 16_1_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.1 Mobile/15E148 
+0 473
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 Safari/537.36
+0 2
+Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36
+0 2
+Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm) Chrome/103.0.50
+0 567
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Safari/605.1.15
+0 1
+facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)
+0 2
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.2; Win64; x64; Trident/7.0; .NET4.0C; .NET4.0E; .NET CLR 2.0.50727; .NET CLR 
+0 2
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+0 555
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 OPR/94.0.0.0
+0 70
+Mozilla/5.0 (compatible; Linux x86_64; Mail.RU_Bot/2.0; +https://help.mail.ru/webmaster/indexing/robots)
+0 32
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+0 2
+Mozilla/5.0 (Linux; Android 7.0;) AppleWebKit/537.36 (KHTML, like Gecko) Mobile Safari/537.36 (compatible; PetalBot;+https://
+0 1
+Chrome Privacy Preserving Prefetch Proxy
+0 5
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko; compatible; BW/1.1; bit.ly/3eZNDnO; da175c58
+0 4
+Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.268
+0 4
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 Safari/537.36 Edg/103.
+0 10
+Mozilla/5.0 (X11; Linux x86_64; rv:83.0) Gecko/20100101 Firefox/83.0
+0 2
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36
+0 3
+Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+0 34
+Mozilla/5.0 (Linux; Android 10; SM-A205G Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:102.0) Gecko/20100101 Firefox/102.0
+0 1
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36
+0 3
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.75 Safari/537.36
+0 4
+Mozilla/5.0 (compatible; DotBot/1.2; +https://opensiteexplorer.org/dotbot; help@moz.com)
+0 4
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.146
+0 3
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36
+0 61
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36
+0 5
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36
+0 4
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko)' Chrome/59.0.3071.115 Safari/537.36
+0 33
+python-requests/2.28.2
+0 2
+Mozilla/5.0 (compatible; Pinterestbot/1.0; +http://www.pinterest.com/bot.html)
+0 22
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.151
+0 71
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4400.8 Safari/537.36
+0 3
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
+0 55
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames

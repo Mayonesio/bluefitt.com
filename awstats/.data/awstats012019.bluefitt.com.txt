@@ -1,0 +1,755 @@
+AWSTATS DATA FILE 7.7 (build 20180105)
+# If you remove this file, all statistics for date 201901 will be lost/reset.
+# Last config file used to build this data file was /home/galarzap/domains/bluefitt.com/awstats/.data/awstats.bluefitt.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 30
+POS_GENERAL 2102                
+POS_TIME 2785                
+POS_VISITOR 10740               
+POS_DAY 17923               
+POS_DOMAIN 3642                
+POS_LOGIN 3875                
+POS_ROBOT 4030                
+POS_WORMS 4922                
+POS_EMAILSENDER 5053                
+POS_EMAILRECEIVER 5196                
+POS_SESSION 18761               
+POS_SIDER 18968               
+POS_FILETYPES 5331                
+POS_DOWNLOADS 5624                
+POS_OS 5751                
+POS_BROWSER 6026                
+POS_SCREENSIZE 7268                
+POS_UNKNOWNREFERER 7342                
+POS_UNKNOWNREFERERBROWSER 7902                
+POS_ORIGIN 8077                
+POS_SEREFERRALS 8219                
+POS_PAGEREFS 8417                
+POS_SEARCHWORDS 8899                
+POS_KEYWORDS 9051                
+POS_MISC 2448                
+POS_ERRORS 9110                
+POS_CLUSTER 3731                
+POS_SIDER_403 9289                
+POS_SIDER_400 10349               
+POS_SIDER_404 10431               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20190201021536 444 113367 5006303111487
+FirstTime 20190101013757
+LastTime 20190131171321
+LastUpdate 20190201021706 444 0 443 0 0
+TotalVisits 260                 
+TotalUnique 156                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 191                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 56 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 16 18 658645 81 130 907845
+1 12 61 1556184 55 67 446762
+2 13 151 3367105 61 69 625228
+3 7 56 1579773 80 82 869164
+4 4 4 54661 38 47 3966633
+5 74 74 950496 97 133 796066
+6 5 5 147084 71 100 1136345
+7 5 5 212010 47 106 861446
+8 6 8 234797 52 122 948236
+9 178 474 27188070 70 84 638503
+10 265 718 50618163 67 73 441470
+11 17 92 5589604 62 76 513777
+12 123 665 76605653 64 82 427534
+13 21 210 25299458 87 112 1101026
+14 27 207 19194615 56 83 450312
+15 41 273 27776689 62 72 353574
+16 53 569 60727122 75 106 2700600
+17 28 246 18595520 83 150 1213366
+18 25 27 1098288 67 77 740392
+19 11 13 537159 93 109 1212043
+20 20 106 12291949 129 138 617202
+21 5 8 471203 85 104 2896692
+22 10 11 551514 49 114 763480
+23 19 20 524777 62 74 641541
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 1
+ip 985 4021 335830539
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 19
+wordpress 413 805413 20190131235953 0
+Googlebot/ 403 7630591 20190131235951 49
+bingbot/ 125 915848 20190131011514 25
+(firefox/)([0-9]\.|[0-1][0]\.) 104 474332 20190130064547 14
+Baiduspider/ 87 7765734 20190131184107 0
+bingpreview 24 617627 20190128084002 0
+dataprovider\.com 12 507808 20190115064827 1
+MSIE[\x20]6 12 127114 20190120215251 0
+SemrushBot/ 10 96854 20190131002812 5
+python 6 96947 20190130200114 0
+core 2 1976 20190102020417 0
+CFNetwork 1 13434 20190111014251 0
+[\s_+:,\.\;\/\\-]bot 4 184645 20190115213307 1
+ips\-agent 5 168753 20190112025420 2
+bot[\s_+:,\.\;\/\\-] 6 455700 20190129134148 0
+GrapeshotCrawler/ 2 21345 20190113150756 1
+facebookexternalhit/ 2 8652 20190130102936 2
+netcraft 1 78891 20190106174235 0
+crawl 1 75459 20190105172603 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 12
+eot 3 181087 0 0
+css 622 3987146 0 0
+png 1518 259838464 0 0
+ttf 2 80217 0 0
+pdf 4 8821841 0 0
+woff 27 139502 0 0
+woff2 27 2094703 0 0
+php 983 16794696 0 0
+js 672 4559785 0 0
+jpg 82 39244021 0 0
+svg 48 35926 0 0
+gif 33 53151 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 1
+/wp-content/uploads/2018/11/Cat2018BlueFitt-incluido-marrones.pdf 8 0 16537775
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 15
+linuxandroid 109 11
+winlong 19 19
+winxp 9 9
+macosx11 2 2
+ios_iphone 174 7
+macosx12 24 24
+linux 301 18
+win7 663 209
+macosx 1273 430
+macosx10 2 2
+win8 11 9
+win8.1 121 9
+Unknown 138 53
+win10 1173 182
+macosx8 2 1
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 58
+firefox28.0 2 2
+chrome67.0.3396.87 1 1
+chrome41.0.2225.0 8 8
+chrome69.0.3497.81 3 3
+safari12.0 1 0
+chrome60.0.3112.50 41 3
+chrome31.0.1650.57 4 4
+chrome63.0.3223.8 2 2
+chrome71.0.3578.98 2239 513
+chrome58.0.3029.110 1 1
+firefox31.0 2 2
+msie8.0 2 2
+chrome61.0.3163.100 28 28
+firefox64.0 7 6
+chrome26.0.1410.65 2 1
+firefox43.0 2 2
+firefox59.0 2 2
+msie7.0 1 0
+chrome60.0.3112.101 7 7
+chrome40.0.2214.85 94 7
+chrome41.0.2272.89 69 69
+chrome71.0.3578.99 106 9
+chrome50.0.2661.75 2 2
+firefox27.0 17 11
+Unknown 125 40
+chrome65.0.3325.181 1 1
+firefox37.1 2 2
+firefox50.0 251 6
+chrome41.0.2224.3 8 8
+firefox53.0 1 1
+chrome53.8.3967.8239 1 1
+chrome55.0.2883.87 114 17
+firefox17.0 44 44
+opera54.0.2952.71 1 1
+chrome34.0.1847.131 1 1
+chrome72.0.3626.81 117 9
+chrome68.0.3440.106 1 1
+chrome41.0.2226.0 9 9
+chrome59.0.3071.125 1 0
+opera49.0.2725.47 2 2
+firefox47.0 2 2
+chrome41.0.2227.1 6 6
+firefox61.0 10 10
+chrome46.0.2490.80 20 20
+chrome45.0.2454.94 1 1
+safari12.0.2 177 16
+msie11.0 90 3
+mozilla 12 12
+netscape5.0 2 2
+chrome68.0.3440.84 57 56
+msie10.0 44 4
+opera36.0.2130.32 1 1
+chrome46.0.2754.75 7 7
+chrome70.0.3538.110 90 3
+chrome41.0.2228.0 2 2
+chrome69.0.3497.100 4 4
+firefox36.0 1 1
+safari 173 7
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 7
+Mozilla/5.0_zgrab/0.x_(compatible;_Researchscan/t13rl;__http://researchscan.comsys.rwth-aachen.de) 20190130084133
+\ 20190117205514
+Mozilla/5.0_zgrab/0.x 20190122034247
+Go-http-client/1.1 20190102103907
+Installatron_Plugin/9.1.42 20190131051816
+Mozilla/5.0_zgrab/0.x_(compatible;_Researchscan/t12sns;__http://researchscan.comsys.rwth-aachen.de) 20190128021708
+Mozilla/5.0_zgrab/0.x_(compatible;_Researchscan/t12ca;__http://researchscan.comsys.rwth-aachen.de) 20190128161013
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 3
+\ 20190117205514
+Go-http-client/1.1 20190102103907
+Installatron_Plugin/9.1.42 20190131051816
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 233 503
+From1 9 9
+From2 7 29
+From3 94 94
+From4 642 3386
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 3
+www_google_co_cr 0 1
+www_google_com 6 27
+yandexru 1 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 10
+http://burger-imperia.com 36 36
+http://pizza-imperia.com 16 16
+https://164.138.208.187:443 12 12
+http://hundejo.com 10 10
+http://pizza-tycoon.com 7 7
+https://brandnewblogs.com/site-browser/ 5 5
+https://brandnewblogs.com/blogs-july-2018/ 3 3
+https://brandnewblogs.com 2 2
+https://www.facebook.com 2 2
+http://www.marinetraffic.com 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 8
+403 34 60234
+400 12 38010
+421 1 3783
+302 13 3835
+500 7 40356
+405 4 2243
+301 738 953414
+404 225 4002024
+END_ERRORS
+
+# URL with 403 errors - Hits - Last URL referrer
+BEGIN_SIDER_403 21
+/wp-includes/Requests/404.php 2 http://site.ru
+/wp-includes/pomo/sqlbasa.php 1 bluefitt.com
+/robots.txt 3 -
+/wp-json/oembed/1.0/embed 6 http://bluefitt.com/wp-json/oembed/1.0/embed
+/wp-includes/js/tinymce/plugins/fullscreen/newsleter.php 1 http://site.ru
+/wp-includes/pomo/idomen5.php 1 bluefitt.com
+/wp-includes/pomo/sliverone.php 1 bluefitt.com
+/wp-includes/wp-tomar.php 3 http://site.ru
+/wp-content/plugins/wp-support-plus-responsive-ticket-system/includes/admin/downloadAttachment.php 1 -
+/wp-includes/js/imgareaselect/newsleter.php 1 http://site.ru
+/wp-includes/pomo/sqlbasa1.php 1 bluefitt.com
+/wp-includes/007.php 2 -
+/wp-includes/SimplePie/Canonical.php 1 bluefitt.com
+/wp-includes/pomo/monolit.php 1 bluefitt.com
+/wp-includes/pomo/mon0lit.php 1 bluefitt.com
+/wp-includes/pomo/pictur.php 1 bluefitt.com
+/xmlrpc.php 2 -
+/wp-json/wp/v2/users/ 1 -
+/wp-includes/pomo/sliver.php 1 bluefitt.com
+/wordpress/wp-config.php~ 2 -
+/wp-content/plugins/ungallery/source_vuln.php 1 -
+END_SIDER_403
+
+# URL with 400 errors - Hits - Last URL referrer
+BEGIN_SIDER_400 0
+END_SIDER_400
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 0
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 191
+90.173.78.27 448 1489 114418703 20190122104236
+164.138.210.41 72 72 483588 20190131051817
+116.203.43.149 56 57 5303866 20190115124424
+5.188.62.5 33 33 172787 20190126185912
+90.69.138.247 22 137 14547761 20190128160039
+87.217.228.194 20 133 14456093 20190118125947
+52.53.201.78 14 14 247494 20190130020750
+89.167.129.64 12 207 24064158 20190131171321
+81.46.200.206 12 24 998156 20190128133911
+95.127.21.84 11 119 12118081 20190123123800
+34.212.65.203 1 1 17983 20190113180349
+35.0.127.52 1 1 17785 20190122235015
+81.47.170.214 1 3 19308 20190109153603
+45.76.115.159 1 1 17802 20190124235312
+77.234.65.181 5 5 73964 20190124201858
+138.246.253.5 4 4 17492 20190125000702
+162.247.74.202 1 1 17800 20190122042904
+185.127.25.192 1 1 17787 20190124015626
+148.251.90.237 3 3 236670 20190110221054
+185.206.225.30 5 5 175199 20190116202040
+94.23.2.209 1 1 17818 20190120152026
+31.13.115.11 0 5 17103 
+185.220.101.32 1 1 17787 20190124071103
+34.208.235.9 1 1 79267 20190117150653
+181.143.28.250 0 1 21423 
+171.67.70.58 1 1 17780 20190122034247
+85.248.227.164 1 1 17786 20190125141912
+52.4.244.57 1 2 24121 20190102131800
+104.222.43.66 0 1 6201 
+31.13.115.13 0 4 161727 
+93.188.2.5 1 1 79672 20190118195447
+137.226.113.28 5 5 88910 20190123110141
+51.38.64.136 3 3 53373 20190125163010
+166.70.207.2 1 1 17787 20190124112015
+188.116.35.54 1 1 79749 20190106183143
+185.107.47.171 1 1 17787 20190117155028
+185.206.225.234 2 2 9222 20190124193153
+62.174.194.171 0 1 284897 
+204.8.156.142 1 1 17786 20190129152632
+208.97.138.194 2 2 159186 20190122143104
+185.253.97.234 1 1 4979 20190112212925
+31.132.36.172 1 1 17787 20190124080328
+212.170.116.9 8 149 11649509 20190124160602
+23.226.211.42 1 1 79573 20190109151416
+31.13.115.1 2 17 244250 20190130104131
+31.13.115.4 0 1 15270 
+45.40.143.13 1 1 36935 20190114114140
+185.253.96.204 2 2 158863 20190131144611
+197.231.221.211 1 1 17787 20190112140436
+91.210.147.223 2 2 18322 20190102103439
+51.77.201.37 1 1 17802 20190120161129
+46.183.220.181 2 2 158863 20190112230021
+84.236.87.212 4 4 63394 20190117171157
+177.228.3.140 0 1 284924 
+92.223.88.232 2 2 157457 20190103223739
+176.10.99.200 1 1 17786 20190125152508
+5.196.66.162 2 2 35572 20190128183324
+201.201.215.141 0 1 284912 
+37.18.103.4 1 1 78974 20190106185749
+35.233.41.151 3 3 19056 20190130200105
+66.70.217.179 3 3 53359 20190129141911
+23.239.180.213 1 1 79573 20190102165814
+206.180.165.147 1 1 18220 20190121085845
+94.230.208.148 1 1 17801 20190125200640
+91.250.241.241 1 1 17787 20190129040343
+94.23.196.14 10 10 498274 20190111005743
+185.220.101.28 2 2 35588 20190128024102
+23.226.211.177 1 1 79573 20190104120259
+47.60.39.226 1 1 13677 20190111180555
+176.14.37.74 4 44 519794 20190121022006
+190.236.23.187 0 1 10378 
+163.172.215.253 1 1 17787 20190124093147
+151.80.167.68 1 1 17802 20190120190154
+185.220.101.44 1 1 17785 20190123004757
+139.162.72.149 1 1 17607 20190123204855
+51.15.37.97 1 1 17787 20190112233236
+83.40.215.122 0 1 21222 
+195.176.3.23 1 1 17787 20190124110940
+206.225.83.83 1 1 17541 20190102103907
+45.77.58.125 1 1 1272 20190126041135
+77.247.181.162 3 3 53361 20190128115209
+51.15.124.1 1 1 17786 20190119143148
+128.199.194.131 1 1 78876 20190104182851
+193.90.12.119 1 1 17787 20190112132919
+185.220.101.26 2 2 35571 20190125160032
+92.223.88.240 2 2 158863 20190123121609
+46.165.245.154 1 1 17785 20190122235935
+78.109.23.2 3 3 53361 20190117000136
+90.174.3.238 0 9 723655 
+50.82.96.212 2 2 29215 20190110120627
+158.69.52.114 2 2 26092 20190119033545
+31.13.115.8 0 18 1648307 
+77.245.151.247 2 2 22428 20190116173022
+158.69.116.60 1 1 75926 20190115064828
+201.163.247.190 0 1 20657 
+23.226.211.51 1 1 79573 20190110103054
+46.118.113.108 1 1 79599 20190131164453
+187.160.101.210 0 1 26069 
+185.220.101.31 1 1 17787 20190125001350
+167.61.117.144 0 1 22138 
+52.201.222.27 5 43 286064 20190114124703
+31.202.101.40 2 2 18562 20190128173652
+31.13.115.14 0 15 1456409 
+199.195.250.77 1 1 17785 20190122234921
+185.234.217.234 1 1 17787 20190123093707
+69.164.206.42 3 88 11949539 20190117205510
+31.13.115.12 0 29 7063619 
+104.222.43.194 0 1 6201 
+190.186.137.164 0 1 10378 
+34.232.127.140 3 88 11941092 20190131164214
+83.99.159.70 9 103 12424654 20190108143655
+171.25.193.235 1 1 17802 20190128010904
+185.220.101.15 1 1 17786 20190130093356
+192.99.8.157 5 5 249608 20190120054541
+199.249.230.72 1 1 17787 20190118213954
+104.222.33.136 1 1 79573 20190110165740
+18.85.22.239 2 2 35587 20190129015319
+104.222.33.51 1 1 80277 20190115100622
+85.69.199.19 0 1 25258 
+94.25.171.27 1 1 79381 20190131074710
+185.220.101.27 1 1 17785 20190122135903
+51.15.233.253 1 1 17787 20190124062521
+185.245.85.232 2 2 158863 20190127184508
+51.75.66.250 1 1 17787 20190117193109
+185.220.101.21 1 1 17787 20190123104450
+185.220.101.53 1 1 17787 20190131005355
+31.13.115.5 1 10 152197 20190129122655
+190.145.12.106 0 1 10378 
+31.13.115.2 0 18 1361856 
+144.168.162.250 1 1 79514 20190112070006
+47.60.39.57 3 86 6121700 20190110145632
+47.92.110.185 1 1 78811 20190103210329
+190.43.17.201 0 1 10378 
+31.13.115.3 0 7 5782141 
+89.167.129.75 0 1 82993 
+52.12.196.134 1 1 79267 20190117150706
+137.226.113.26 4 4 70644 20190128021708
+198.98.52.93 1 1 17788 20190125101450
+51.15.80.14 2 2 35587 20190122095205
+104.222.33.89 0 1 6201 
+199.249.230.88 1 1 17788 20190125013046
+83.240.132.135 3 90 11951829 20190128135542
+132.157.66.182 0 1 29649 
+23.83.91.134 2 2 29456 20190117141403
+104.222.43.85 1 1 80277 20190116221654
+195.57.83.99 3 12 6953681 20190124123050
+54.167.8.239 1 1 17983 20190119184313
+137.226.113.27 3 3 53100 20190130084133
+185.104.120.4 2 2 35589 20190125013131
+84.78.20.202 3 77 5391808 20190130110819
+199.249.230.83 1 1 17802 20190123040021
+31.220.120.248 1 1 17779 20190130192120
+188.165.197.221 5 5 249137 20190105184249
+3.84.122.64 1 1 78767 20190106124552
+137.226.113.34 5 250 6805868 20190129020159
+60.191.38.77 2 2 158022 20190102235742
+45.40.135.140 4 4 57945 20190130191915
+23.226.211.20 0 1 6201 
+83.48.6.231 0 1 21423 
+83.43.122.158 0 1 22138 
+51.77.177.194 1 1 17786 20190130012833
+92.38.162.13 2 2 158863 20190117001838
+158.69.192.200 1 1 17787 20190114071042
+23.239.180.173 0 1 6201 
+23.226.211.187 1 1 80277 20190128125900
+181.177.235.2 2 62 4974472 20190125172926
+92.222.29.57 2 2 157780 20190109120127
+38.201.195.251 3 89 12050917 20190131164419
+104.222.43.172 1 1 80277 20190128160628
+190.238.51.208 0 1 30037 
+23.92.217.54 1 1 17787 20190130230419
+31.13.115.15 3 41 3955284 20190130104131
+90.94.220.228 0 1 284897 
+54.226.76.146 1 1 17982 20190122023535
+216.145.5.42 1 1 18454 20190108195236
+185.253.96.203 2 2 158863 20190127155523
+65.19.167.130 1 1 17787 20190120024949
+104.222.33.82 1 1 79573 20190108164553
+104.222.43.68 0 1 6201 
+178.164.146.101 1 1 17367 20190109010729
+31.13.115.7 0 15 2165192 
+13.57.233.99 10 10 177093 20190131064457
+23.226.211.109 1 1 80277 20190131092659
+185.220.101.20 1 1 17802 20190126063942
+190.113.214.141 8 121 12412824 20190127154558
+216.145.17.190 1 1 18694 20190128212120
+192.42.116.16 1 1 17785 20190123004205
+31.31.72.24 1 1 17800 20190121223638
+51.68.88.176 1 1 1272 20190113154255
+46.183.220.184 2 2 157457 20190108032127
+62.210.116.201 1 1 17785 20190122170540
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 31
+20190101 5 54 1409690 4
+20190102 18 157 24084700 8
+20190103 8 9 299528 6
+20190104 4 5 178083 3
+20190105 8 8 280110 3
+20190106 6 6 268464 5
+20190107 7 7 79487 5
+20190108 16 160 14080543 6
+20190109 14 17 843436 8
+20190110 35 371 32468199 11
+20190111 421 990 53436933 6
+20190112 9 9 310150 7
+20190113 6 6 68256 5
+20190114 14 53 443973 9
+20190115 61 113 6928040 5
+20190116 17 19 393995 9
+20190117 18 103 12426580 10
+20190118 28 142 14659546 8
+20190119 6 6 75294 4
+20190120 12 12 352032 7
+20190121 15 146 12759558 8
+20190122 24 74 1768853 16
+20190123 27 137 12796447 14
+20190124 33 187 19394027 18
+20190125 24 86 5401969 16
+20190126 31 32 181303 6
+20190127 17 130 12797344 7
+20190128 41 247 27032110 15
+20190129 12 149 13491161 9
+20190130 21 192 18611238 12
+20190131 27 394 48509490 10
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+1h+ 3
+5mn-15mn 1
+2mn-5mn 2
+30s-2mn 6
+15mn-30mn 5
+0s-30s 240
+30mn-1h 3
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 141
+/wp-admin/admin-ajax.php 404 303007 3 21
+/ 289 8974140 209 176
+/xmlrpc.php 36 147482 9 10
+/category/productos/ 16 192901 0 0
+/wp-admin/theme-editor.php 15 280206 0 0
+/contacto/ 12 127089 0 4
+/bienvenida/ 12 133853 0 1
+/wp-admin/post.php 11 1781584 0 0
+/wp-admin/load-scripts.php 8 652569 0 0
+/author/bluefittcomercial/ 7 370501 0 6
+/deleteme.wpgdbp.php 1 10702 0 1
+/tag/comando-hidraulico/ 1 60151 0 0
+/wp-admin/install.php 2 9160 0 1
+/tag/racores-azules/ 1 60103 0 0
+/deleteme.cha2ytx0.php 1 2731 1 0
+/deleteme.wpgjzu.php 1 10702 0 1
+/deleteme.wpjohd.php 1 10702 0 1
+/deleteme.chanbi9f.php 1 2731 1 0
+/category/empresa/ 1 39141 0 0
+/deleteme.wpmazh.php 1 10702 0 1
+/deleteme.wpdvbv.php 1 10702 0 1
+/filtro-te/ 1 41466 0 0
+/category/productos/fittings/page/2/ 2 47341 0 0
+/tag/css3/ 1 39081 0 0
+/tag/node-js/ 1 39103 0 0
+/enlace-rosca-macho/ 2 49373 0 0
+/deleteme.chatraaa.php 1 2731 1 0
+/deleteme.wph5fv.php 1 10702 0 1
+/deleteme.chaumyxt.php 1 2731 1 0
+/deleteme.chakvzes.php 1 2731 1 0
+/deleteme.chaz3pnk.php 1 2731 1 0
+/deleteme.chau8npg.php 1 2731 1 0
+/deleteme.chamgi4p.php 1 2731 1 0
+/tag/racores/page/3/ 2 52474 0 0
+/filtro-enlace/ 1 41454 0 0
+/deleteme.chaavg13.php 1 2731 1 0
+/deleteme.wp2vu9.php 1 10702 0 1
+/deleteme.wpi5r9.php 1 10702 0 1
+/author/comercial/ 6 190683 0 0
+/category/productos/racores/ 2 63483 0 1
+/author/bluefittcomercial/page/3/ 1 47234 0 0
+/deleteme.wpc4x2.php 1 10702 0 1
+/deleteme.wpxgzo.php 1 10702 0 1
+/deleteme.wp9tqc.php 1 10702 0 1
+/filtro-codo/ 2 49720 1 0
+/deleteme.cha442rk.php 1 2731 1 0
+/te-igual/ 1 41172 0 0
+/codo-rosca-macho/ 1 41392 0 0
+/tag/comando-hidraulico/page/3/ 1 44680 0 0
+/deleteme.chaamilf.php 1 2731 1 0
+/mayoj/ 1 1448 0 0
+/deleteme.chanszwn.php 1 2731 1 0
+/deleteme.wpxjlj.php 1 10702 0 1
+/deleteme.wprvka.php 1 10702 0 1
+/deleteme.chazpyoi.php 1 2731 1 0
+/deleteme.wpft8v.php 1 10702 0 1
+/te-union-rm/ 1 41204 0 0
+/deleteme.chai9u8a.php 1 2731 1 0
+/union-rh/ 1 41272 0 0
+/deleteme.cha9hmyv.php 1 2731 1 0
+/category/productos/page/2/ 1 61715 0 0
+/deleteme.wphe14.php 1 10702 0 1
+/deleteme.wpr86r.php 1 10702 0 1
+/deleteme.wprk9k.php 1 10702 0 1
+/deleteme.cha3vpop.php 1 2731 1 0
+/tag/fittings/page/2/ 1 61636 0 0
+/tapon/ 1 41142 0 0
+/filtro-te-asimetrica/ 2 49606 0 0
+/deleteme.cha94sdm.php 1 2731 1 0
+/author/admin/ 6 190587 0 0
+/codo-rosca-macho-corto/ 2 49242 0 0
+/deleteme.wpqikm.php 1 10702 0 1
+/deleteme.cha3gfgr.php 1 2731 1 0
+/deleteme.wparbj.php 1 10702 0 1
+/deleteme.chahnfig.php 1 2731 1 0
+/conector-rosca-rs/ 1 42118 0 0
+/deleteme.wp9ki2.php 1 10702 0 1
+/category/productos/fittings/ 3 80264 0 0
+/tag/racores-azules/page/2/ 1 61708 0 0
+/codo-rs/ 3 58150 0 0
+/wp-admin/load-styles.php 5 298412 0 0
+/wp-admin/admin-post.php 2 1246 1 0
+/tag/comando-hidraulico/page/2/ 1 61760 0 0
+/deleteme.chad1fuc.php 1 2731 1 0
+/manguito-union/ 1 41371 0 0
+/deleteme.chabhwdg.php 1 2731 1 0
+/wp-admin/ 1 19389 0 0
+/wp-content/plugins/js_composer/assets/fonts/vc_icons_v2/fonts/vcpb-plugin-icons.ttf 1 3240 0 0
+/deleteme.chahhlaw.php 1 2731 1 0
+/codo-seguridad/ 1 42058 0 0
+/reduccion/ 1 41234 0 0
+/deleteme.chag47fk.php 1 2731 1 0
+/tag/racores/page/2/ 2 70459 0 0
+/te-enlace/ 3 58110 1 1
+/deleteme.wpe94l.php 1 10702 0 1
+/enlace-rs/ 1 41996 0 0
+/tag/html/ 1 39081 0 0
+/te-rosca-rs/ 1 42041 0 0
+/deleteme.chamqqdb.php 1 2731 1 0
+/enlace-cruz/ 1 41928 0 0
+/deleteme.wploez.php 1 10702 0 1
+/deleteme.wprafy.php 1 10702 0 1
+/tag/fittings/ 1 60037 0 0
+/deleteme.wpc9wc.php 1 10702 0 1
+/machon-reductor/ 1 41188 0 0
+/deleteme.wpv7ob.php 1 10702 0 1
+/deleteme.channjhd.php 1 2731 1 0
+/politica-privacidad/ 3 56945 0 1
+/author/bluefittcomercial/page/2/ 1 61867 0 0
+/deleteme.chaegj0w.php 1 2731 1 0
+/deleteme.chav393r.php 1 2731 1 0
+/deleteme.wpijmy.php 1 10702 0 1
+/deleteme.chavm4cm.php 1 2731 1 0
+/deleteme.wprgur.php 1 10702 0 1
+/category/productos/page/3/ 1 44610 0 0
+/deleteme.wp1akv.php 1 10702 0 1
+/author/mayoj/ 6 190587 0 0
+/deleteme.chaxtcyb.php 1 2731 1 0
+/deleteme.wpdrw7.php 1 10702 0 1
+/tapon-rs/ 1 41441 0 0
+/deleteme.wpzzml.php 1 10702 0 1
+/deleteme.wp48hd.php 1 10702 0 1
+/te-asimetrica/ 1 41240 0 0
+/category/productos/filtros/ 6 86006 0 1
+/deleteme.cha6zexl.php 1 2731 1 0
+/deleteme.cha73lat.php 1 2731 1 0
+/deleteme.wpj90y.php 1 10702 0 1
+/deleteme.charcmns.php 1 2731 1 0
+/tag/fittings/page/3/ 1 44566 0 0
+/wp-content/plugins/js_composer/assets/lib/bower/font-awesome/fonts/fontawesome-webfont.ttf 1 76977 0 0
+/deleteme.chaz1hnz.php 1 2731 1 0
+/tag/racores/ 3 77433 0 0
+/deleteme.wpkrrd.php 1 10702 0 1
+/deleteme.wpocjg.php 1 10702 0 1
+/deleteme.wp4w05.php 1 10702 0 1
+/deleteme.chailmtk.php 1 2731 1 0
+/deleteme.chaasjas.php 1 2731 1 0
+/wp-admin/edit.php 1 20836 0 0
+/tag/racores-azules/page/3/ 1 44632 0 1
+/deleteme.chayue1x.php 1 2731 1 0
+/deleteme.wpctqz.php 1 10702 0 1
+END_SIDER

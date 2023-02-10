@@ -1,0 +1,21 @@
+<!doctype html><html><head><meta charset="utf-8">
+<title>404 La página no se ha encontrado - Not Found</title>
+<meta name="viewport" content="width=680, maximum-scale=1.5" />
+<style type="text/css" >
+html { background: #ededed; width: 100%; font-size: 15px; color: #646a71; text-align: left; font-family: Arial, Helvetica, sans-serif; line-height: 20px; } body { width: 640px; margin: auto; } img { width: 210px; height: 60px; float: left; margin: 40px 0 20px 20px; }
+h1, h2 { width: 640px; font-size: 20px; color: #09c; float: left; letter-spacing: -1px; } h1 em { font-weight: 400; color: #6E6E6E; } div { text-align: justify; border-bottom: 2px solid #D6D6D6; background: url(bad.gif) 425px 60px no-repeat #fff; float: left; padding: 20px 40px 0 40px; width: 560px; } ul, li, p { width: 380px; float: left; list-style: none; font-size: 15px; padding: 0; margin: 0; } li { padding: 20px 0; } i { font-style: italic; color: #93979b; } strong { font-weight: 700; color: #09c; } span{ font-size: 12px; color: #AE0000; }
+h2 { padding-top:40px; border-top: 1px dotted #ccc; color: #646a71; width: 380px; }
+</style></head><body>
+<a href="http://www.cyberneticos.com" title="Cyberneticos CPD" ><img src="logo.png" width="210" height="60" title="Cyberneticos - |DOMAIN|" alt="|DOMAIN| - Cyberneticos" ><b style="float: right; text-align: right; color: #09c; text-decoration: none; font-size: 20px; font-weight: 400; letter-spacing: -1px; padding: 70px 20px 0 0;">www.cyberneticos.com</b></a>
+<div>
+<h1>404 La página no se ha encontrado</h1>
+<ul>
+<li><p>La URL solicitada<strong> <!--#echo var="REQUEST_URI" --></strong> no se encontró en el servidor.</p></li>
+</ul>
+<h2>404 Not Found</h2>
+<ul>
+<li><p><i>The requested URL<strong> <!--#echo var="REQUEST_URI" --></strong> was not found on this server.</i></p></li>
+</ul>
+<li><span><!--#echo var="HTTP_HOST" --></span></li>
+</ul></div><span style="float: left; padding: 20px 0 20px 20px; background: none; color: #999;" >© Cyberneticos Hosting SL</span>
+</body></html>

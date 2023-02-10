@@ -1,0 +1,1988 @@
+AWSTATS DATA FILE 7.8 (build 20200416)
+# If you remove this file, all statistics for date 202106 will be lost/reset.
+# Last config file used to build this data file was /home/galarzap/domains/bluefitt.com/awstats/.data/awstats.bluefitt.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 30
+POS_GENERAL 2102                
+POS_TIME 2777                
+POS_VISITOR 50018               
+POS_DAY 66384               
+POS_DOMAIN 3687                
+POS_LOGIN 3920                
+POS_ROBOT 4075                
+POS_WORMS 5179                
+POS_EMAILSENDER 5310                
+POS_EMAILRECEIVER 5453                
+POS_SESSION 67240               
+POS_SIDER 67432               
+POS_FILETYPES 5588                
+POS_DOWNLOADS 5925                
+POS_OS 6090                
+POS_BROWSER 6515                
+POS_SCREENSIZE 8951                
+POS_UNKNOWNREFERER 9025                
+POS_UNKNOWNREFERERBROWSER 9532                
+POS_ORIGIN 9964                
+POS_SEREFERRALS 10108               
+POS_PAGEREFS 10410               
+POS_SEARCHWORDS 10895               
+POS_KEYWORDS 11149               
+POS_MISC 2440                
+POS_ERRORS 11273               
+POS_CLUSTER 3776                
+POS_SIDER_403 11424               
+POS_SIDER_400 12226               
+POS_SIDER_404 12308               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20210701000132 5515 1450578 11225761295490
+FirstTime 0
+LastTime 20210630204352
+LastUpdate 20210701005740 5515 0 5514 0 0
+TotalVisits 383                 
+TotalUnique 351                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 442                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 55 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 59 956 33868266 59 267 10975894
+1 22 163 6856972 79 225 6945477
+2 5 8 408168 43 201 3165392
+3 46 168 3045704 89 294 6462715
+4 13 15 801716 51 269 3633303
+5 13 67 2945169 47 233 4297565
+6 9 77 5722900 53 264 5134663
+7 5 8 3513394 77 226 5515927
+8 15 110 15387861 52 533 5068079
+9 42 541 39595889 78 314 5656393
+10 19 94 14810681 79 294 3249758
+11 93 844 53626267 153 518 4762989
+12 47 615 43860874 59 5334 7014254
+13 49 399 19986565 76 258 2317588
+14 24 280 8173565 62 232 2539239
+15 17 271 10375036 67 215 2333979
+16 23 317 24474138 108 227 5514236
+17 25 465 23245165 74 240 5352169
+18 20 250 14450389 46 165 5272198
+19 70 268 9794274 77 215 6280041
+20 18 176 5660324 91 261 4248695
+21 22 74 1871184 59 258 6418628
+22 8 124 6412592 74 232 7267966
+23 39 286 12616770 61 389 9778145
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 1
+ip 703 6576 361503863
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 24
+bingbot/ 1207 78717732 20210630235650 111
+bingpreview 695 17643219 20210630095554 0
+Googlebot/ 488 5331022 20210630235956 47
+Applebot/ 125 5767994 20210630231108 22
+crawl 66 740718 20210628011819 4
+dataprovider\.com 65 3609075 20210629235204 0
+unknown 65 361510 20210629235131 65
+netEstate[\x20]NE[\x20]Crawler 57 767879 20210616165207 2
+Googlebot\-Image/ 25 2920424 20210630150755 0
+Pinterestbot 14 108920 20210619040035 10
+(firefox/)([0-9]\.|[0-1][0]\.) 1 15881 20210603002239 0
+core 2 152101 20210612031916 0
+no_user_agent 6 395702 20210619132617 0
+Wget/ 1 162609 20210602050730 0
+KomodiaBot/ 1 67774 20210610111804 0
+LinkedInBot/ 9 136353 20210630093627 2
+MSIE[\x20]6 5 177427 20210623080817 0
+DuckDuckGo\-Favicons\-Bot/ 8 69752 20210625072324 0
+custo 3 202620 20210630070845 0
+java 1 5415 20210618002920 0
+favicon 4 40651 20210618152410 0
+bot[\s_+:,\.\;\/\\-] 3 22063 20210624085614 2
+facebookexternalhit/ 2 17415 20210617111022 1
+netcraft 2 135474 20210603205233 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 14
+eot 8 323264 0 0
+mp3 2 10309310 0 0
+css 1395 9470997 0 0
+png 1255 254392567 0 0
+ttf 3 111049 0 0
+pdf 11 32654265 0 0
+woff2 62 3545497 0 0
+woff 97 5705744 0 0
+php 363 12273785 0 0
+html 337 3871961 0 0
+xml 1 7269 0 0
+js 2911 21706786 0 0
+jpg 126 7120293 0 0
+gif 5 11076 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 3
+/docu/Cat2021BlueFitt.pdf 11 0 35436765
+/docu/Cat2019BlueFitt.pdf 7 0 12742218
+/docu/SacabocadosFicha.pdf 1 0 207085
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 26
+androidpie 3 0
+macosx11 93 29
+androidnougat 49 1
+winlong 1 1
+winxp 18 3
+ios_iphone 593 15
+androidlollipop 2 2
+android 1 0
+win8 6 1
+macosx9 1 1
+macosx13 60 2
+androidoreo 1 0
+macosx15 176 46
+unix 2 2
+winnt 2 2
+linuxubuntu 3 3
+macosx12 1 1
+linux 298 110
+win7 572 100
+macosx 9 9
+android10 232 5
+macosx10 1 1
+win8.1 181 26
+Unknown 15 15
+win10 4254 326
+macosx8 2 2
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 111
+firefox57.0 51 3
+firefox74.0 1 1
+chrome89.0.4389.86 1 0
+chrome60.0.3112.50 46 1
+chrome79.0.3945.79 49 1
+opera10.60 1 1
+chrome91.0.4472.101 590 16
+chrome85.0.4183.121 44 44
+chrome91.0.4472.88 1 0
+chrome90.0.4430.210 53 1
+chrome58.0.3029.110 1 1
+chrome83.0.4096.0 3 3
+chrome83.0.4103.97 70 70
+safari5.0.2 1 1
+safari14.1.1 534 12
+msie8.0 1 1
+chrome63.0.3239.84 3 3
+firefox70.0 1 1
+firefox64.0 6 4
+chrome90.0.4430.72 244 5
+chrome90.0.4430.212 627 19
+chrome50.0.2661.102 15 15
+safari14.0.3 68 1
+firefox65.0 4 4
+chrome91.0.4472.114 530 14
+chrome77.0.3835.0 48 1
+chrome66.0.3359.181 2 2
+chrome70.0.3538.102 432 8
+chrome49.0.2623.112 1 0
+chrome90.0.4430.93 135 3
+edge17 283 5
+chrome55.0.2883.87 20 10
+firefox40.0 2 2
+chrome88.0.4324.190 1 0
+opera65.0.3467.48 1 1
+opera51.0.2830.55 1 1
+chrome91.0.4472.120 2 0
+chrome83.0.4099.2 5 5
+chrome66.0.3355.4 2 2
+chrome83.0.4087.0 7 7
+chrome78.0.3904.87 3 3
+chrome91.0.4472.124 83 3
+firefox78.0 117 2
+firefox68.0 1 1
+chrome36.0.1985.143 66 3
+chrome78.0.3904.97 1 1
+firefox33.0 1 1
+mozilla 31 1
+netscape5.0 2 2
+chrome44.0.2403.157 16 16
+chrome91.0.4472.0 1 1
+chrome83.0.4103.34 8 8
+chrome83.0.4086.0 10 10
+chrome84.0.4147.105 27 12
+chrome60.0.3112.90 11 11
+chrome40.0.2214.93 1 1
+chrome73.0.3683.90 1 1
+safari 1 0
+opera64.0.3417.92 1 1
+chrome83.0.4103.24 2 2
+chrome51.0.2704.64 2 2
+safari14.1 54 2
+chrome24.0.1309.0 1 1
+chrome83.0.4103.14 3 3
+chrome71.0.3578.98 1 1
+firefox63.0 240 5
+chrome83.0.4103.44 3 3
+chrome26.0.1410.65 1 1
+chrome51.0.2704.84 78 14
+chrome83.0.4103.61 49 22
+chrome85.0.4183.83 1 1
+chrome74.0.3729.169 37 35
+msie9.0 45 2
+chrome16.0.912.63 15 1
+Unknown 14 14
+chrome60.0.3112.116 1 1
+chrome72.0.3626.109 10 10
+chrome91.0.4472.106 292 7
+chrome73.0.3683.75 53 4
+opera62.0.3331.99 3 3
+chrome83.0.4098.0 2 2
+chrome70.0.3538.77 1 1
+chrome91.0.4472.77 740 18
+firefox84.0 12 12
+firefox89.0 54 2
+opera56.0.3051.52 1 1
+chrome67.0.3372.0 11 11
+opera57.0.3098.106 1 1
+chrome76.0.3809.100 33 5
+chrome80.0.3987.149 2 2
+chrome83.0.4093.3 3 3
+firefox67.0 2 2
+firefox61.0 15 12
+chrome45.0.2454.94 1 1
+msie11.0 295 51
+chrome83.0.4102.0 3 3
+chrome80.0.3987 1 1
+chrome86.0.4240.198 1 0
+firefox88.0 50 49
+chrome71.0.3563.0 66 1
+firefox81.0 32 31
+chrome81.0.4044.138 59 1
+msie10.0 2 2
+firefox51.0 2 2
+chrome83.0.4103.106 1 1
+chrome80.0.3987.132 1 1
+firefox21.0.1 1 1
+chrome88.0.4324.146 3 3
+opera76.0.4017.154 1 0
+safari14.0.1 5 1
+chrome75.0.3770.100 1 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 6
+NetSystemsResearch_studies_the_availability_of_various_services_across_the_internet._Our_website_is_netsystemsresearch.com 20210625215430
+colly_-_https://github.com/gocolly/colly/v2 20210609110219
+Mozilla/5.0_(compatible;_Google-Site-Verification/1.0) 20210622152112
+Go_http_package 20210628191206
+User-Agent\ 20210604101208
+AppEngine-Google;_(_http://code.google.com/appengine;_appid:_s~virustotalcloud) 20210604145154
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 5
+NetSystemsResearch_studies_the_availability_of_various_services_across_the_internet._Our_website_is_netsystemsresearch.com 20210625215430
+colly_-_https://github.com/gocolly/colly/v2 20210609110219
+Go_http_package 20210628191206
+User-Agent\ 20210604101208
+AppEngine-Google;_(_http://code.google.com/appengine;_appid:_s~virustotalcloud) 20210604145154
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 381 493
+From1 3 3
+From2 77 149
+From3 65 66
+From4 177 5865
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 8
+www_google_com_gt 0 1
+www_bing_com 7 12
+www_google_com_mx 0 1
+www_google_com_br 0 1
+www_google_cat 0 1
+www_google_es 5 6
+google_com 2 2
+www_google_com 63 125
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 10
+http://164.138.208.187 28 28
+https://www.galarza.pro 22 22
+http://164.138.208.187:80 5 5
+https://www.galarza.pro/productosgalarza.html 3 3
+https://www.vaflow.es/tolerancias.html 2 2
+https://vaflow.es 2 2
+https://www.vaflow.es/productosvaf.html 1 1
+https://very-important.online 1 1
+https://www.galarza.pro 1 1
+https://www.vaflow.es 0 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 4
+bluefitt+international+s.l.u.+caudalimetros 2
+bluefitt+international+s.l.u. 2
+semalt.com 1
+bluefitt 1
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 5
+bluefitt 5
+s.l.u. 4
+international 4
+caudalimetros 2
+semalt.com 1
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 5
+401 3 26782
+403 277 1752186
+302 12 25015
+404 6453 7907440
+301 1976 1836577
+END_ERRORS
+
+# URL with 403 errors - Hits - Last URL referrer
+BEGIN_SIDER_403 37
+/sitemap.xml 1 -
+/ 11 -
+/robots.txt 108 -
+/teproducto.html 2 -
+/recursos.html 2 -
+/contactUs.html 1 -
+/ch050.html 1 -
+/conectorproducto.html 1 -
+/ch001.html 1 -
+/index.html 2 -
+/manguitoproducto.html 3 -
+/ch080.html 1 -
+/services.html 1 -
+/ch031.html 1 -
+/ch092.html 2 -
+/ch002c.html 1 -
+/empresa.html 2 -
+/contactus.html 2 -
+/productos.html 3 -
+/careers.html 1 -
+/ch070.html 1 -
+/precios.html 2 -
+/ch043fc.html 1 -
+/ch071.html 1 -
+/ch041.html 1 -
+/ch041fl.html 1 -
+/ch033fl.html 1 -
+/ch041fc.html 1 -
+/ch081.html 1 -
+/privacidad.html 2 -
+/docu/Cat2019BlueFitt.pdf 2 -
+/ch046.html 1 -
+/empresaIntro.html 2 -
+/ch004cfc.html 1 -
+/codoproducto.html 3 -
+/403.shtml 108 http://www.bluefitt.com/about-us.html
+/ch020.html 1 -
+END_SIDER_403
+
+# URL with 400 errors - Hits - Last URL referrer
+BEGIN_SIDER_400 0
+END_SIDER_400
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 966
+/bf21101.html/js/jquery.fitvids.js 1 -
+/ch004fl.html/js/jquery.isotope.min.js 1 -
+/teproducto.html/js/jquery.revolution.js 1 -
+/ch001c.html/js/classie.js 1 -
+/ch001c.html/js/jquery.easing.1.3.js 1 -
+/mysqladmin/ 1 -
+/ch022.html/js/jquery.isotope.min.js 1 -
+/ch052.html/js/owl.carousel.min.js 1 -
+/ch033fc.html/js/html5shiv.js 1 -
+/ch040.html/js/smooth-scroll.js 1 -
+/ch003.html/js/page-scroll.js 1 -
+/index.xml 1 -
+/ch081.html/js/qcast.js 1 -
+/ch050.html/js/jquery.parallax-1.1.3.js 1 -
+/ch004fl.html/js/counter.js 1 -
+/install/ 1 -
+/ch052.html/js/jquery.parallax-1.1.3.js 1 -
+/ch011.html/js/wow.min.js 1 -
+/fl201418.html/js/bootstrap.js 1 -
+/fl301418.html/js/jquery.min.js 1 -
+/ch012.html/js/classie.js 1 -
+/xmlrpc.php 2 -
+/ch045.html/js/jquery.easypiechart.js 1 -
+/bienvenida/ 2 -
+/ch045.html/js/classie.js 1 -
+/ch001c.html/js/jquery.easypiechart.js 1 -
+/codoproducto.html/js/jquery.easypiechart.js 1 -
+/bf21101.html/js/smooth-scroll.js 1 -
+/codoproducto.html/js/jquery.isotope.min.js 1 -
+/bf21100.html/js/text-effect.js 1 -
+/index.rss 1 -
+/ch012.html/js/html5shiv.js 1 -
+/fl201418.html/js/jquery.parallax-1.1.3.js 1 -
+/index.html/js/classie.js 1 -
+/ch004fl.html/js/jquery.appear.js 1 -
+/ch031fl.html/js/jquery.parallax-1.1.3.js 1 -
+/test/ 1 -
+/file/archive.zip 2 https://bluefitt.com/file/archive.zip
+/ch004fc.html/js/jquery.easypiechart.js 1 -
+/manguitoproducto.html/js/classie.js 1 -
+/ch002fl.html/js/bootstrap.js 1 -
+/ch011.html/js/jquery.countto.js 1 -
+/ch004fc.html/js/wow.min.js 1 -
+/ch050.html/js/skrollr.min.js 1 -
+/bf21100.html/js/jquery.easypiechart.js 1 -
+/ch052.html/js/classie.js 1 -
+/manguitoproducto.html/js/jquery.countto.js 1 -
+/ch002fl.html/js/jquery.min.js 1 -
+/style.php 2 bluefitt.com
+/testimonials.html/js/skrollr.min.js 1 -
+/empresa.html/js/jquery.tools.min.js 1 -
+/ch011.html/js/imagesloaded.pkgd.min.js 1 -
+/ch022.html/js/page-scroll.js 1 -
+/ch022.html/js/classie.js 1 -
+/ch003.html/js/classie.js 1 -
+/ch004fl.html/js/jquery.easypiechart.js 1 -
+/our-clients.html 1 -
+/bf21101.html/js/classie.js 1 -
+/ch003c.html/js/imagesloaded.pkgd.min.js 1 -
+/taponproducto.htmljs/jquery.revolution.js 2 http://www.bluefitt.com
+/ch030.html/js/modernizr.js 1 -
+/conectorproducto.html/js/imagesloaded.pkgd.min.js 2 -
+/ch046.html/js/qcast.js 1 -
+/taponproducto.html/js/bootstrap.js 1 -
+/manguitoproducto.html/js/counter.js 1 -
+/ch002fc.html/js/skrollr.min.js 1 -
+/www/archive.zip 2 https://bluefitt.com/www/archive.zip
+/sql.php 1 -
+/ch011.html/js/qcast.js 1 -
+/bf21100.html/js/hamburger-menu.js 1 -
+/tmp/archive.zip 2 https://bluefitt.com/tmp/archive.zip
+/ch050.html/js/bootstrap-hover-dropdown.js 1 -
+/6203c1.html 1 -
+/wpbackup/archive.zip 2 https://bluefitt.com/wpbackup/archive.zip
+/empresa.html/js/bootstrap-hover-dropdown.js 2 -
+/privacidad.html/js/jquery.isotope.min.js 1 -
+/codoproducto.html/js/jquery.tools.min.js 1 -
+/ch081.html/js/classie.js 1 -
+/ch031fl.html/js/jquery.magnific-popup.min.js 1 -
+/ch030.html/js/hamburger-menu.js 1 -
+/index.html/js/jquery.countto.js 1 -
+/ch003.html/js/skrollr.min.js 1 -
+/ch030.html/js/jquery.easing.1.3.js 1 -
+/feeds 1 -
+/ch030.html/js/jquery.countto.js 1 -
+/reduproducto.html/js/jquery.parallax-1.1.3.js 1 -
+/ch030.html/js/jquery.magnific-popup.min.js 1 -
+/ch003.html/js/imagesloaded.pkgd.min.js 1 -
+/ch040.html/js/jquery.countto.js 1 -
+/ch002fc.html/js/page-scroll.js 1 -
+/ch012.html/js/page-scroll.js 1 -
+/index.html/js/hamburger-menu.js 1 -
+/ch004fl.html/js/smooth-scroll.js 1 -
+/taponproducto.htmljs/qcast.js 2 http://www.bluefitt.com
+/archive/archive.zip 6 https://bluefitt.com/archive/archive.zip
+/ch060.html/js/bootstrap-hover-dropdown.js 1 -
+/empresa.html/js/counter.js 1 -
+/empresa.html/js/imagesloaded.pkgd.min.js 1 -
+/ch030.html/js/jquery.fitvids.js 1 -
+/fl201418.html/js/jquery.revolution.js 1 -
+/old-index.php 2 bluefitt.com
+/images/intro-product-03-05.jpg 3 https://www.bluefitt.com/empresaIntro.html
+/tapon/ 1 -
+/ch033fl.html/js/jquery.tools.min.js 1 -
+/ch011.html/js/main.js 1 -
+/teproducto.html/js/wow.min.js 1 -
+/ch003.html/js/jquery.countto.js 1 -
+/index.html/js/jquery.parallax-1.1.3.js 1 -
+/images/intro-product-02-06.jpg 3 https://www.bluefitt.com/empresaIntro.html
+/contacto/ 1 -
+/ch031fl.html/js/bootstrap.js 1 -
+/ch032.html/js/jquery.appear.js 1 -
+/ch004fl.html/js/jquery.countto.js 1 -
+/ch050.html/js/hamburger-menu.js 1 -
+/ch004fc.html/js/main.js 1 -
+/ch004cfc.html 1 -
+/empresaintro.html 2 https://www.bluefitt.com/
+/ch081.html/js/jquery.magnific-popup.min.js 1 -
+/ch032.html/js/modernizr.js 1 -
+/ch004fl.html/js/text-effect.js 1 -
+/ch031cfc.html 1 -
+/taponproducto.html/js/hamburger-menu.js 1 -
+/ch004fl.html/js/popup-gallery.js 1 -
+/ch012.html/js/jquery.appear.js 1 -
+/ch040.html/js/hamburger-menu.js 1 -
+/ch004fc.html/js/jquery.isotope.min.js 1 -
+/sacabocadoproducto.html/js/classie.js 1 -
+/db/ 1 -
+/new/ 1 -
+/manguitoproducto.html/js/jquery.fitvids.js 1 -
+/ch004fl.html/js/imagesloaded.pkgd.min.js 1 -
+/ch032.html/js/bootstrap.js 1 -
+/empresa.html/js/jquery.min.js 1 -
+/ch012.html/js/popup-gallery.js 1 -
+/shell.php 1 -
+/ch041cfl.html 1 -
+/ch030.html/js/owl.carousel.min.js 1 -
+/ch046.html/js/bootstrap.js 1 -
+/images/intro-product-02-02.jpg 2 https://www.bluefitt.com/empresaIntro.html
+/privacidad.html/js/classie.js 1 -
+/manguitoproducto.html/js/jquery.parallax-1.1.3.js 1 -
+/ch052.html/js/jquery.min.js 1 -
+/ch030.html/js/main.js 1 -
+/ch091.html/js/classie.js 1 -
+/ch004fl.html/js/jquery.parallax-1.1.3.js 1 -
+/fl201418.html/js/jquery.easing.1.3.js 1 -
+/ch011.html/js/classie.js 1 -
+/ch046.html/js/jquery.appear.js 1 -
+/ch091.html/js/hamburger-menu.js 1 -
+/sacabocadoproducto.html/js/modernizr.js 1 -
+/ch003c.html/js/main.js 1 -
+/bk/ 1 -
+/ch001c.html/js/jquery.tools.min.js 1 -
+/teproducto.html/js/jquery.tools.min.js 1 -
+/ch060.html/js/jquery.isotope.min.js 1 -
+/ch022.html/js/imagesloaded.pkgd.min.js 1 -
+/testimonials.html/js/jquery.isotope.min.js 1 -
+/testimonials.html/js/text-effect.js 1 -
+/te-rosca-rs/ 1 -
+/ch004fc.html/js/text-effect.js 1 -
+/wp2/ 1 -
+/productos.html/js/imagesloaded.pkgd.min.js 1 -
+/ch031fl.html/js/counter.js 1 -
+/ch046.html/js/popup-gallery.js 1 -
+/bf21101.html/js/hamburger-menu.js 1 -
+/taponproducto.htmljs/jquery.countTo.js 2 http://www.bluefitt.com
+/manguitoproducto.html/js/owl.carousel.min.js 1 -
+/ch002fl.html/js/jquery.tools.min.js 1 -
+/ch012.html/js/jquery.parallax-1.1.3.js 1 -
+/teproducto.html/js/page-scroll.js 1 -
+/productos.html/js/wow.min.js 1 -
+/ch091.html/js/jquery.appear.js 1 -
+/ch022.html/js/text-effect.js 1 -
+/machon-reductor/ 3 -
+/ch060.html/js/jquery.easing.1.3.js 1 -
+/codoproducto.html/js/skrollr.min.js 1 -
+/public_html/archive.zip 2 https://bluefitt.com/public_html/archive.zip
+/conectorproducto.html/js/jquery.min.js 2 -
+/ch001c.html/js/jquery.parallax-1.1.3.js 1 -
+/taponproducto.html/js/jquery.parallax-1.1.3.js 1 -
+/testimonials.html/js/page-scroll.js 1 -
+/taponproducto.htmljs/jquery.appear.js 2 http://www.bluefitt.com
+/bf21100.html/js/jquery.tools.min.js 1 -
+/ch031cfl.html 1 -
+/codoproducto.html/js/modernizr.js 1 -
+/wp-content/plugins/log-http-requests/includes/include.php 1 bluefitt.com
+/ch031fl.html/js/popup-gallery.js 1 -
+/index.html/js/text-effect.js 1 -
+/taponproducto.htmljs/jquery.magnific-popup.min.js 2 http://www.bluefitt.com
+/ch040.html/js/jquery.revolution.js 1 -
+/ch012.html/js/text-effect.js 1 -
+/fl301418.html/js/popup-gallery.js 1 -
+/apple-touch-icon.png 19 -
+/privacidad.html/js/popup-gallery.js 1 -
+/ch022.html/js/modernizr.js 1 -
+/empresa.html/js/bootstrap.js 1 -
+/taponproducto.html/js/jquery.revolution.js 1 -
+/fl201418.html/js/jquery.tools.min.js 1 -
+/blog-masonry-3columns.html 1 -
+/home/archive.zip 2 https://bluefitt.com/home/archive.zip
+/filtroproducto.html/js/bootstrap.js 1 -
+/2018/ 1 -
+/ch002fc.html/js/counter.js 1 -
+/taponproducto.html/js/jquery.easing.1.3.js 1 -
+/ch022.html/js/html5shiv.js 1 -
+/fl301418.html/js/page-scroll.js 1 -
+/ch012.html/js/qcast.js 1 -
+/fl301418.html/js/main.js 1 -
+/ch032.html/js/counter.js 1 -
+/git/archive.zip 2 https://bluefitt.com/git/archive.zip
+/manguitoproducto.html/js/jquery.easing.1.3.js 1 -
+/ch091.html/js/imagesloaded.pkgd.min.js 1 -
+/ch004fc.html/js/hamburger-menu.js 1 -
+/ch031fl.html/js/jquery.min.js 1 -
+/wp/ 1 -
+/files/index.php 1 http://www.google.com/
+/ch011.html/js/bootstrap.js 1 -
+/v1/ 1 -
+/wp-load.php 2 bluefitt.com
+/fl301418.html/js/html5shiv.js 1 -
+/ch080.html/js/imagesloaded.pkgd.min.js 1 -
+/b./ch004fl.html 1 -
+/manguitoproducto.html/js/imagesloaded.pkgd.min.js 1 -
+/ch060.html/js/jquery.fitvids.js 1 -
+/ch031fl.html/js/page-scroll.js 1 -
+/apple-touch-icon-precomposed.png 15 -
+/empresa.html/js/text-effect.js 1 -
+/ch022.html/js/counter.js 1 -
+/ch002fl.html/js/jquery.revolution.js 1 -
+/demo/ 1 -
+/ch032.html/js/text-effect.js 1 -
+/contactus.html 3 -
+/ch002fl.html/js/jquery.parallax-1.1.3.js 1 -
+/ch040.html/js/jquery.tools.min.js 1 -
+/ch030.html/js/jquery.revolution.js 1 -
+/ch004fl.html/js/jquery.min.js 1 -
+/testimonials.html/js/jquery.easypiechart.js 1 -
+/productos.html/js/jquery.fitvids.js 1 -
+/testimonials.html/js/html5shiv.js 1 -
+/fl201418.html/js/popup-gallery.js 1 -
+/js/jquery.countto.js 1 -
+/conectorproducto.html/js/bootstrap-hover-dropdown.js 1 -
+/fl201418.html/js/main.js 1 -
+/wp-content/plugins/fancy-product-designer/assets/css/fancy-product.css 1 http://www.google.com.hk
+/testimonials.html/js/modernizr.js 1 -
+/ch031fl.html/js/jquery.isotope.min.js 1 -
+/fl201418.html/js/smooth-scroll.js 1 -
+/conectorproducto.html/js/owl.carousel.min.js 1 -
+/at-the-end-of-the-day-or-at-the-start-of-the-day/ 1 -
+/ch002fl.html/js/jquery.magnific-popup.min.js 1 -
+/ch052.html/js/main.js 1 -
+/taponproducto.htmljs/jquery.min.js 2 http://www.bluefitt.com
+/fl301418.html/js/jquery.magnific-popup.min.js 1 -
+/conectorproducto.html/js/jquery.parallax-1.1.3.js 1 -
+/ch003.html/js/main.js 1 -
+/ch046.html/js/jquery.easing.1.3.js 1 -
+/ch046.html/js/jquery.fitvids.js 1 -
+/images/ch023cfc+b.png 1 -
+/ch03.html 1 -
+/ch060.html/js/jquery.min.js 1 -
+/ch011.html/js/text-effect.js 1 -
+/images/intro-product-03-02.jpg 2 https://www.bluefitt.com/empresaIntro.html
+/bak/ 1 -
+/ch091.html/js/main.js 1 -
+/ch001c.html/js/modernizr.js 1 -
+/privacidad.html/js/jquery.magnific-popup.min.js 1 -
+/taponproducto.htmljs/bootstrap.js 2 http://www.bluefitt.com
+/conectorproducto.html/js/bootstrap.js 1 -
+/ch060.html/js/classie.js 1 -
+/ch003.html/js/jquery.parallax-1.1.3.js 1 -
+/ch003c.html/js/jquery.tools.min.js 1 -
+/ch052.html/js/bootstrap-hover-dropdown.js 1 -
+/ch004fl.html/js/skrollr.min.js 1 -
+/privacidad.html/js/jquery.easypiechart.js 1 -
+/taponproducto.htmljs/smooth-scroll.js 2 http://www.bluefitt.com
+/testimonials.html/js/classie.js 1 -
+/ch004fc.html/js/page-scroll.js 1 -
+/bf21101.html/js/bootstrap.js 1 -
+/filtro-te/ 3 -
+/enlace-rosca-macho/ 3 -
+/taponproducto.html/js/jquery.isotope.min.js 2 -
+/clientes.html 3 https://www.bluefitt.com/empresa.html
+/taponproducto.htmljs/jquery.parallax-1.1.3.js 2 http://www.bluefitt.com
+/testimonials.html/js/counter.js 1 -
+/images/intro-product-08-01.jpg 3 -
+/bf21101.html/js/main.js 1 -
+/ch040.html/js/jquery.fitvids.js 1 -
+/ch043fc.html/js/jquery.tools.min.js 1 -
+/ch030.html/js/smooth-scroll.js 1 -
+/ch002cfc.html 2 -
+/filtro-enlace/ 4 -
+/2019/ 1 -
+/ch022.html/js/skrollr.min.js 1 -
+/ch003.html/js/text-effect.js 1 -
+/ch030.html/js/jquery.parallax-1.1.3.js 1 -
+/ch012.html/js/owl.carousel.min.js 1 -
+/conectorproducto.html/js/text-effect.js 1 -
+/ch003.html/js/modernizr.js 1 -
+/ch001c.html/js/skrollr.min.js 1 -
+/ch045.html/js/jquery.appear.js 1 -
+/images/intro-product-02-03.jpg 3 https://www.bluefitt.com/empresaIntro.html
+/ch052.html/js/jquery.revolution.js 1 -
+/ch052.html/js/wow.min.js 1 -
+/ch002fl.html/js/jquery.countto.js 1 -
+/ch032.html/js/wow.min.js 1 -
+/teproducto.html/js/bootstrap-hover-dropdown.js 1 -
+/taponproducto.htmljs/counter.js 2 http://www.bluefitt.com
+/productos.html/js/jquery.countto.js 1 -
+/privacidad.html/js/jquery.easing.1.3.js 1 -
+/reduproducto.html/js/jquery.appear.js 1 -
+/taponproducto.htmljs/owl.carousel.min.js 2 http://www.bluefitt.com
+/ch040.html/js/html5shiv.js 1 -
+/ch032.html/js/jquery.fitvids.js 1 -
+/reduproducto.html/js/jquery.isotope.min.js 1 -
+/testimonials.html/js/jquery.appear.js 1 -
+/te-igual/ 2 -
+/bf21101.html/js/counter.js 1 -
+/index.html/js/jquery.easing.1.3.js 1 -
+/ch031fl.html/js/jquery.easing.1.3.js 1 -
+/ch081.html/js/html5shiv.js 1 -
+/ch003.html/js/bootstrap.js 1 -
+/ch080.html/js/jquery.appear.js 1 -
+/productos.html/js/classie.js 1 -
+/reduproducto.html/js/modernizr.js 1 -
+/ch002fl.html/js/wow.min.js 1 -
+/productos.html/js/popup-gallery.js 1 -
+/ch060.html/js/popup-gallery.js 1 -
+/index.html/js/jquery.tools.min.js 1 -
+/ch091.html/js/bootstrap.js 1 -
+/ch012.html/js/smooth-scroll.js 1 -
+/manguitoproducto.html/js/wow.min.js 1 -
+/empresa.html/js/modernizr.js 1 -
+/wp-admin/admin-ajax.php 4 http://www.google.com/
+/empresa.html/js/jquery.fitvids.js 1 -
+/codoproducto.html/js/counter.js 1 -
+/conectorproducto.html/js/page-scroll.js 1 -
+/reduproducto.html/js/text-effect.js 1 -
+/ch031fl.html/js/text-effect.js 1 -
+/ch021cfc.html 1 -
+/ch052.html/js/jquery.easing.1.3.js 1 -
+/ch052.html/js/popup-gallery.js 1 -
+/js/ckfinder/core/connector/php/connector.php 1 -
+/ch050.html/js/bootstrap.js 1 -
+/db.php 2 bluefitt.com
+/ch031fl.html/js/classie.js 1 -
+/ch040.html/js/jquery.min.js 1 -
+/ch004fl.html/js/main.js 1 -
+/testimonials.html/js/bootstrap.js 1 -
+/ch003.html/js/jquery.easypiechart.js 1 -
+/sacabocadoproducto.html/js/jquery.countto.js 1 -
+/ch001c.html/js/jquery.isotope.min.js 1 -
+/bf21100.html/js/jquery.appear.js 1 -
+/ch012.html/js/imagesloaded.pkgd.min.js 1 -
+/ch011.html/js/jquery.parallax-1.1.3.js 1 -
+/ch093.html 1 -
+/bf21100.html/js/jquery.isotope.min.js 1 -
+/fl201418.html/js/classie.js 1 -
+/reduproducto.html/js/jquery.easing.1.3.js 1 -
+/testimonials.html/js/jquery.viewport.mini.js 1 -
+/fl301418.html/js/text-effect.js 1 -
+/ch040.html/js/jquery.magnific-popup.min.js 1 -
+/privacidad.html/js/page-scroll.js 1 -
+/fl301418.html/js/smooth-scroll.js 1 -
+/copy/archive.zip 4 http://bluefitt.com/copy/archive.zip
+/privacidad.html/js/bootstrap-hover-dropdown.js 1 -
+/ch001c.html/js/page-scroll.js 1 -
+/ch060.html/js/jquery.appear.js 1 -
+/productos.html/js/jquery.viewport.mini.js 1 -
+/wp-json/wp/v2/users/ 1 http://bluefitt.com/wp-json/wp/v2/users/
+/conectorproducto.html/js/popup-gallery.js 1 -
+/ch002fc.html/js/hamburger-menu.js 1 -
+/empresa.html/js/smooth-scroll.js 1 -
+/reduproducto.html/js/page-scroll.js 1 -
+/ch004fc.html/js/jquery.easing.1.3.js 1 -
+/ch004fc.html/js/jquery.tools.min.js 1 -
+/teproducto.html/js/html5shiv.js 1 -
+/privacidad.html/js/imagesloaded.pkgd.min.js 1 -
+/ch001c.html/js/counter.js 1 -
+/ch004fl.html/js/html5shiv.js 1 -
+/contactus.html/js/jquery.isotope.min.js 1 -
+/ch022.html/js/jquery.revolution.js 1 -
+/ch046.html/js/jquery.countto.js 1 -
+/images/intro-product-06-01.jpg 3 -
+/privacidad.html/js/wow.min.js 1 -
+/ch031fl.html/js/jquery.appear.js 1 -
+/ch031fl.html/js/html5shiv.js 1 -
+/taponproducto.htmljs/page-scroll.js 2 http://www.bluefitt.com
+/index.html/js/main.js 1 -
+/privacidad.html/js/jquery.revolution.js 1 -
+/ch021cfl.html 1 -
+/ch060.html/js/jquery.revolution.js 1 -
+/conectorproducto.html/js/jquery.revolution.js 1 -
+/empresa.html/js/jquery.appear.js 1 -
+/ch052.html/js/jquery.magnific-popup.min.js 2 -
+/ch030.html/js/classie.js 1 -
+/backup/archive.zip 4 https://bluefitt.com/backup/archive.zip
+/browserconfig.xml 2 -
+/precios.html/js/html5shiv.js 1 -
+/images/intro-product-02-05.jpg 2 https://www.bluefitt.com/empresaIntro.html
+/ch045.html/js/qcast.js 1 -
+/ch002fc.html/js/imagesloaded.pkgd.min.js 1 -
+/ch081.html/js/wow.min.js 1 -
+/mysql/ 1 -
+/ch031fl.html/js/imagesloaded.pkgd.min.js 1 -
+/html/archive.zip 2 https://bluefitt.com/html/archive.zip
+/images/intro-product-04-04.jpg 2 https://www.bluefitt.com/empresaIntro.html
+/wp-content/uploads/2018/11/Codo-rosca-macho-largo-e1542967956315.png 1 -
+/ch040.html/js/bootstrap-hover-dropdown.js 1 -
+/manguitoproducto.html/js/hamburger-menu.js 1 -
+/b./ch004cfl.html 2 -
+/ch052.html/js/page-scroll.js 1 -
+/ch045.html/js/owl.carousel.min.js 1 -
+/ch002fl.html/js/jquery.isotope.min.js 1 -
+/ch031fl.html/js/hamburger-menu.js 1 -
+/fl301418.html/js/jquery.revolution.js 1 -
+/codoproducto.html/js/text-effect.js 1 -
+/fl301418.html/js/wow.min.js 1 -
+/enlace-cruz/ 3 -
+/ch011.html/js/html5shiv.js 1 -
+/index.html/js/jquery.min.js 1 -
+/taponproducto.htmljs/jquery.fitvids.js 2 http://www.bluefitt.com
+/teproducto.html/js/counter.js 1 -
+/ch011.html/js/jquery.magnific-popup.min.js 1 -
+/ch050.html/js/jquery.isotope.min.js 1 -
+/ch004fl.html/js/bootstrap-hover-dropdown.js 1 -
+/conectorproducto.html/js/classie.js 1 -
+/ch001c.html/js/hamburger-menu.js 1 -
+/testimonials.html/js/owl.carousel.min.js 1 -
+/teproducto.html/js/skrollr.min.js 1 -
+/ch011.html/js/jquery.tools.min.js 1 -
+/ch060.html/js/main.js 1 -
+/nunc-eros-urna-porttitor-ac-ipsum-quis-sagittis-mollis-dui/ 1 -
+/ch002fc.html/js/jquery.easing.1.3.js 1 -
+/humans.txt 3 http://bluefitt.com/humans.txt
+/ch004fc.html/js/popup-gallery.js 1 -
+/bf21100.html/js/jquery.magnific-popup.min.js 1 -
+/bf21101.html/js/qcast.js 1 -
+/index.html/js/jquery.revolution.js 1 -
+/fl301418.html/js/imagesloaded.pkgd.min.js 1 -
+/database/ 1 -
+/manguitoproducto.html/js/jquery.revolution.js 1 -
+/fl201418.html/js/owl.carousel.min.js 1 -
+/ch003.html/js/jquery.revolution.js 1 -
+/ch091.html/js/jquery.fitvids.js 1 -
+/ch022.html/js/jquery.tools.min.js 1 -
+/ch052.html/js/bootstrap.js 1 -
+/ch030.html/js/bootstrap-hover-dropdown.js 1 -
+/ch033cfl.html 1 -
+/images/intro-product-01-01.jpg 2635 https://www.bluefitt.com/empresaIntro.html
+/category/productos/filtros/ 1 -
+/bf21100.html/js/popup-gallery.js 1 -
+/index.html/js/jquery.appear.js 1 -
+/2020/ 1 -
+/taponproducto.html/js/smooth-scroll.js 1 -
+/ch003c.html/js/jquery.isotope.min.js 1 -
+/ch060.html/js/wow.min.js 1 -
+/privacidad.html/js/bootstrap.js 1 -
+/empresa.html/js/popup-gallery.js 1 -
+/privacidad.html/js/hamburger-menu.js 1 -
+/_ignition/execute-solution 2 -
+/bf21100.html/js/main.js 1 -
+/ch032.html/js/imagesloaded.pkgd.min.js 1 -
+/ch002fc.html/js/jquery.easypiechart.js 1 -
+/ch004cfl.html 1 -
+/reduproducto.html/js/bootstrap-hover-dropdown.js 1 -
+/ch045.html/js/jquery.parallax-1.1.3.js 1 -
+/privacidad.html/js/html5shiv.js 1 -
+/ch043fc.html/js/qcast.js 1 -
+/ch001c.html/js/smooth-scroll.js 1 -
+/old/archive.zip 2 https://bluefitt.com/old/archive.zip
+/index.html/js/qcast.js 1 -
+/ch004fc.html/js/modernizr.js 1 -
+/conectorproducto.html/js/jquery.isotope.min.js 1 -
+/reduproducto.html/js/owl.carousel.min.js 1 -
+/testimonials.html/js/imagesloaded.pkgd.min.js 1 -
+/ch030.html/js/counter.js 1 -
+/empresa.html/js/jquery.revolution.js 1 -
+/ch052.html/js/counter.js 1 -
+/ch033fl.html/js/jquery.appear.js 1 -
+/ch033fc.html/js/main.js 1 -
+/wordpress/ 1 -
+/ch091.html/js/smooth-scroll.js 1 -
+/ch052.html/js/jquery.easypiechart.js 1 -
+/ch033fl.html/js/modernizr.js 1 -
+/admin.php 15 bluefitt.com
+/bf21101.html/js/jquery.easing.1.3.js 1 -
+/index.rdf 1 -
+/ch040.html/js/owl.carousel.min.js 1 -
+/ch002fl.html/js/bootstrap-hover-dropdown.js 1 -
+/ch002fl.html/js/modernizr.js 1 -
+/semalt.com 3 https://www.bing.com/search
+/images/intro-product-07-01.jpg 2 https://www.bluefitt.com/empresaIntro.html
+/ch001c.html/js/text-effect.js 1 -
+/web/ 1 -
+/vendor/phpunit/phpunit/LICENSE 3 -
+/ch004fl.html/js/jquery.revolution.js 1 -
+/ch044.html 1 -
+/manifest.json 2 https://www.bluefitt.com/recibido.html
+/testimonials.html/js/smooth-scroll.js 1 -
+/ch004fl.html/js/jquery.easing.1.3.js 1 -
+/ch002fl.html/js/popup-gallery.js 1 -
+/content/plugins/wp-user-avatar/assets/css/hint.min.css 1 bluefitt.com
+/sql/ 1 -
+/bf21100.html/js/skrollr.min.js 1 -
+/ch001c.html/js/jquery.min.js 1 -
+/ch060.html/js/text-effect.js 1 -
+/ch003.html/js/bootstrap-hover-dropdown.js 1 -
+/bf21100.html/js/imagesloaded.pkgd.min.js 1 -
+/index.html/js/jquery.isotope.min.js 1 -
+/ch003.html/js/html5shiv.js 1 -
+/manguitoproducto.html/js/jquery.tools.min.js 1 -
+/taponproducto.htmljs/wow.min.js 2 http://www.bluefitt.com
+/fl201418.html/js/jquery.countto.js 1 -
+/ch046.html/js/wow.min.js 1 -
+/ch001c.html/js/main.js 1 -
+/codoproducto.html/js/page-scroll.js 1 -
+/images/intro-product-10-01.jpg 2 https://www.bluefitt.com/empresaIntro.html
+/contactus.html/js/smooth-scroll.js 2 -
+/myadmin/ 1 -
+/fl301418.html/js/jquery.fitvids.js 1 -
+/bf21100.html/js/counter.js 1 -
+/ch060.html/js/jquery.parallax-1.1.3.js 1 -
+/bf21101.html/js/html5shiv.js 1 -
+/manguitoproducto.html/js/bootstrap-hover-dropdown.js 1 -
+/privacidad..html 2 -
+/2018/11/ 1 -
+/ch012.html/js/jquery.countto.js 1 -
+/ch045.html/js/imagesloaded.pkgd.min.js 1 -
+/ch040.html/js/main.js 1 -
+/ch012.html/js/skrollr.min.js 1 -
+/codoproducto.html/js/jquery.fitvids.js 1 -
+/codoproducto.html/js/html5shiv.js 1 -
+/ch040.html/js/jquery.easing.1.3.js 1 -
+/ch060.html/js/jquery.countto.js 1 -
+/ch040.html/js/modernizr.js 1 -
+/productos.html/js/jquery.min.js 1 -
+/wp-login.php 8 -
+/ch040.html/js/jquery.appear.js 1 -
+/ch041cfc.html 1 -
+/ch081.html/js/jquery.easypiechart.js 1 -
+/productos.html/js/cookies.js 1 -
+/privacidad.html/js/owl.carousel.min.js 1 -
+/teproducto.html/js/hamburger-menu.js 1 -
+/reduproducto.html/js/classie.js 1 -
+/codoproducto.html/js/popup-gallery.js 1 -
+/ch022.html/js/jquery.countto.js 1 -
+/ch033fc.html/js/bootstrap.js 1 -
+/privacidad.html/js/jquery.appear.js 1 -
+/fl301418.html/js/jquery.tools.min.js 1 -
+/ch052.html/js/smooth-scroll.js 1 -
+/bf21100.html/js/jquery.parallax-1.1.3.js 1 -
+/ch002fl.html/js/html5shiv.js 1 -
+/ch004fl.html/js/page-scroll.js 1 -
+/ch012.html/js/jquery.tools.min.js 1 -
+/bf21100.html/js/jquery.fitvids.js 1 -
+/reduproducto.html/js/hamburger-menu.js 1 -
+/ch002fc.html/js/jquery.min.js 1 -
+/taponproducto.htmljs/jquery.easypiechart.js 2 http://www.bluefitt.com
+/bf21100.html/js/jquery.min.js 1 -
+/ch033fc.html/js/jquery.magnific-popup.min.js 1 -
+/union-rh/ 8 -
+/taponproducto.html/js/jquery.easypiechart.js 1 -
+/taponproducto.html/js/popup-gallery.js 1 -
+/images/intro-product-04-01.jpg 2 https://www.bluefitt.com/empresaIntro.html
+/reduproducto.html/js/jquery.countto.js 1 -
+/ads.txt 6 http://bluefitt.com/ads.txt
+/scacabocadoproducto.html 4 -
+/ch032.html/js/jquery.countto.js 1 -
+/ch031fl.html/js/owl.carousel.min.js 1 -
+/archive.zip 8 https://bluefitt.com/archive.zip
+/v2/ 1 -
+/privacidad.html/js/skrollr.min.js 1 -
+/ch012.html/js/bootstrap.js 1 -
+/filtro-te-asimetrica/ 3 -
+/taponproducto.html/js/page-scroll.js 1 -
+/ch004fl.html/js/hamburger-menu.js 1 -
+/conectorproducto.html/js/html5shiv.js 2 -
+/empresa.html/js/classie.js 1 -
+/old-wp/ 1 -
+/ch003.html/js/owl.carousel.min.js 1 -
+/codo-rosca-macho-corto/ 1 -
+/ch012.html/js/wow.min.js 1 -
+/fl201418.html/js/page-scroll.js 1 -
+/ch033fl.html/js/imagesloaded.pkgd.min.js 1 -
+/ch043cfl.html 1 -
+/ch050.html/js/main.js 1 -
+/ch002fc.html/js/text-effect.js 1 -
+/privacidad.html/js/qcast.js 1 -
+/bf21100.html/js/html5shiv.js 1 -
+/ch002.html/js/modernizr.js 1 -
+/ch002fc.html/js/jquery.revolution.js 1 -
+/ch052.html/js/skrollr.min.js 1 -
+/ch003.html/js/wow.min.js 1 -
+/ch032.html/js/jquery.tools.min.js 1 -
+/taponproducto.htmljs/jquery.isotope.min.js 2 http://www.bluefitt.com
+/contactus.html/js/imagesloaded.pkgd.min.js 2 -
+/ch002fl.html/js/jquery.easing.1.3.js 1 -
+/manguitoproducto.html/js/bootstrap.js 1 -
+/ch040.html/js/bootstrap.js 1 -
+/ch060.html/js/hamburger-menu.js 1 -
+/ch023cfc.html 1 -
+/fl201418.html/js/text-effect.js 1 -
+/taponproducto.html/js/bootstrap-hover-dropdown.js 1 -
+/empresa.html/js/wow.min.js 1 -
+/taponproducto.htmljs/classie.js 2 http://www.bluefitt.com
+/fl201418.html/js/skrollr.min.js 1 -
+/testimonials.html/js/wow.min.js 1 -
+/oferta/ 1 -
+/reduproducto.html/js/smooth-scroll.js 1 -
+/codoproducto.html/js/hamburger-menu.js 1 -
+/index.html/js/cookies.js 1 -
+/codoproducto.html/js/wow.min.js 1 -
+/ch022.html/js/jquery.easing.1.3.js 1 -
+/ch022.html/js/qcast.js 1 -
+/ch045.html/js/jquery.isotope.min.js 1 -
+/ch004fc.html/js/jquery.revolution.js 1 -
+/ch060.html/js/smooth-scroll.js 1 -
+/ch011.html/js/hamburger-menu.js 1 -
+/ch045.html/js/jquery.revolution.js 1 -
+/ch091.html/js/jquery.tools.min.js 1 -
+/privacidad.html/js/jquery.countto.js 1 -
+/ch046.html/js/jquery.magnific-popup.min.js 1 -
+/ch052.html/js/html5shiv.js 1 -
+/empresa.html/js/html5shiv.js 1 -
+/ch045.html/js/page-scroll.js 1 -
+/ch060.html/js/skrollr.min.js 1 -
+/bf21101.html/js/jquery.parallax-1.1.3.js 1 -
+/reduproducto.html/js/counter.js 1 -
+/ch050.html/js/jquery.fitvids.js 1 -
+/ch040.html/js/imagesloaded.pkgd.min.js 1 -
+/ch022.html/js/smooth-scroll.js 1 -
+/ch021fc.html/js/qcast.js 1 -
+/empresa.html/js/jquery.isotope.min.js 1 -
+/bkp/archive.zip 4 https://bluefitt.com/bkp/archive.zip
+/ch012.html/js/jquery.fitvids.js 1 -
+/productos.html/js/counter.js 1 -
+/ch022.html/js/wow.min.js 1 -
+/ch091.html/js/modernizr.js 1 -
+/ch052.html/js/modernizr.js 1 -
+/conectorproducto.html/js/jquery.magnific-popup.min.js 1 -
+/images/intro-product-bg.jpg 5 -
+/archivarix.cms.php 1 -
+/teproducto.html/js/bootstrap.js 1 -
+/teproducto.html/js/classie.js 1 -
+/fl201418.html/js/jquery.fitvids.js 1 -
+/ch080.html/js/qcast.js 1 -
+/bf21100.html/js/page-scroll.js 1 -
+/ch030.html/js/jquery.appear.js 1 -
+/ch046.html/js/skrollr.min.js 1 -
+/teproducto.html/js/owl.carousel.min.js 1 -
+/reduproducto.html/js/popup-gallery.js 1 -
+/ch030.html/js/jquery.isotope.min.js 1 -
+/ch002fc.html/js/jquery.isotope.min.js 1 -
+/empresa.html/js/skrollr.min.js 1 -
+/ch080.html/js/page-scroll.js 1 -
+/ch004fc.html/js/bootstrap-hover-dropdown.js 1 -
+/ch003c.html/js/qcast.js 1 -
+/reduproducto.html/js/jquery.fitvids.js 1 -
+/ch003.html/js/jquery.isotope.min.js 1 -
+/empresa.html/js/jquery.countto.js 1 -
+/ch050.html/js/jquery.countto.js 1 -
+/ch011.html/js/page-scroll.js 1 -
+/admin/ 2 -
+/politica-privacidad/ 1 -
+/ch030.html/js/page-scroll.js 1 -
+/reduproducto.html/js/skrollr.min.js 1 -
+/wp-content/plugins/wp-user-avatar/readme.txt 1 bluefitt.com
+/ch003.html/js/jquery.tools.min.js 1 -
+/reduproducto.html/js/imagesloaded.pkgd.min.js 1 -
+/ch032.html/js/smooth-scroll.js 1 -
+/bf21100.html/js/smooth-scroll.js 1 -
+/ch003.html/js/jquery.appear.js 1 -
+/productos.html/js/jquery.appear.js 1 -
+/empresa.html/js/jquery.easypiechart.js 1 -
+/ch091.html/js/jquery.isotope.min.js 1 -
+/wp-content/plugins/fancy-product-designer/assets/jssocials/jssocials.css 1 bluefitt.com
+/ch031fl.html/js/wow.min.js 1 -
+/ch091.html/js/text-effect.js 1 -
+/ch060.html/js/modernizr.js 1 -
+/ch081.html/js/bootstrap.js 1 -
+/wp1/ 1 -
+/blog/ 2 -
+/ch004fc.html/js/jquery.fitvids.js 1 -
+/images/intro-product-03-03.jpg 2 https://www.bluefitt.com/empresaIntro.html
+/ch002fl.html/js/jquery.easypiechart.js 1 -
+/ch052.html/js/jquery.fitvids.js 1 -
+/ch032.html/js/jquery.parallax-1.1.3.js 1 -
+/privacidad.html/js/smooth-scroll.js 1 -
+/ch004fc.html/js/owl.carousel.min.js 1 -
+/wp-content/themes/sketch/404.php 2 -
+/index.html/js/jquery.magnific-popup.min.js 1 -
+/reduproducto.html/js/bootstrap.js 1 -
+/ch046.html/js/smooth-scroll.js 1 -
+/ch002fc.html/js/classie.js 1 -
+/taponproducto.htmljs/text-effect.js 2 http://www.bluefitt.com
+/taponproducto.html/js/classie.js 1 -
+/ch022.html/js/hamburger-menu.js 1 -
+/ch003.html/js/hamburger-menu.js 1 -
+/ch033fc.html/js/wow.min.js 1 -
+/ch003.html/js/popup-gallery.js 1 -
+/teproducto.html/js/smooth-scroll.js 1 -
+/privacidad.html/js/counter.js 1 -
+/contactus.html/js/wow.min.js 1 -
+/ch050.html/js/classie.js 1 -
+/ch045.html/js/skrollr.min.js 1 -
+/ch032.html/js/bootstrap-hover-dropdown.js 1 -
+/ch002fc.html/js/modernizr.js 1 -
+/backup/ 1 -
+/ch011.html/js/jquery.fitvids.js 1 -
+/careers.html 3 -
+/ch004fl.html/js/owl.carousel.min.js 1 -
+/privacidad.html/js/modernizr.js 1 -
+/fl301418.html/js/modernizr.js 1 -
+/ch002fc.html/js/wow.min.js 1 -
+/ch046.html/js/jquery.min.js 1 -
+/fl301418.html/js/hamburger-menu.js 1 -
+/dump/archive.zip 4 http://bluefitt.com/dump/archive.zip
+/ch011.html/js/bootstrap-hover-dropdown.js 1 -
+/wp-content/uploads/2018/11/Filtro-codo-2.png 5 -
+/privacidad.html/js/jquery.tools.min.js 1 -
+/empresa.html/js/jquery.magnific-popup.min.js 1 -
+/ch002fc.html/js/qcast.js 1 -
+/wp-content/uploads/2018/11/Cat2018BlueFitt-incluido-marrones.pdf 2 -
+/ch052.html/js/jquery.tools.min.js 1 -
+/ch033fc.html/js/jquery.appear.js 1 -
+/ch004fc.html/js/jquery.countto.js 1 -
+/ch011.html/js/smooth-scroll.js 1 -
+/ch032.html/js/qcast.js 1 -
+/productos.html/js/jquery.parallax-1.1.3.js 1 -
+/bf21100.html/js/jquery.revolution.js 1 -
+/ch031fl.html/js/skrollr.min.js 1 -
+/ch060.html/js/counter.js 1 -
+/index.html/js/one-page-main.js 1 -
+/ch060.html/js/jquery.easypiechart.js 1 -
+/taponproducto.html/js/qcast.js 1 -
+/a9bc224bd710f56d27affffddc764239b58c3faa0/shield.png 6 -
+/team-members.html 1 -
+/ch004fl.html/js/modernizr.js 1 -
+/new-site/ 1 -
+/testimonials.html/js/popup-gallery.js 1 -
+/ch046.html/js/jquery.isotope.min.js 1 -
+/ch022.html/js/popup-gallery.js 1 -
+/ch080.html/js/jquery.easypiechart.js 1 -
+/fl201418.html/js/modernizr.js 1 -
+/ch011.html/js/jquery.appear.js 1 -
+/empresa.html/js/hamburger-menu.js 1 -
+/ch081.html/js/main.js 1 -
+/taponproducto.htmljs/hamburger-menu.js 2 http://www.bluefitt.com
+/index.html/js/counter.js 1 -
+/testimonials.html/js/main.js 1 -
+/teproducto.html/js/imagesloaded.pkgd.min.js 1 -
+/dc.php 1 bluefitt.com
+/ch052.html/js/jquery.appear.js 1 -
+/ch002fc.html/js/owl.carousel.min.js 1 -
+/ch046.html/js/text-effect.js 1 -
+/contactus.html/js/text-effect.js 1 -
+/ch045.html/js/text-effect.js 1 -
+/ch091.html/js/jquery.countto.js 1 -
+/ch081.html/js/jquery.fitvids.js 1 -
+/ch030.html/js/popup-gallery.js 1 -
+/ch012.html/js/main.js 1 -
+/ch001c.html/js/jquery.appear.js 1 -
+/ch003.html/js/counter.js 1 -
+/images/intro-product-03-04.jpg 2 https://www.bluefitt.com/empresaIntro.html
+/ch052.html/js/text-effect.js 1 -
+/testimonials.html/js/qcast.js 1 -
+/ch011.html/js/jquery.revolution.js 1 -
+/ch030.html/js/jquery.min.js 1 -
+/ch012.html/js/jquery.easing.1.3.js 1 -
+/teproducto.html/js/jquery.appear.js 1 -
+/wp-includes 5 www.google.com
+/images/intro-product-05-02.jpg 2 https://www.bluefitt.com/empresaIntro.html
+/ch050.html/js/owl.carousel.min.js 1 -
+/empresa.html/js/qcast.js 1 -
+/ch060.html/js/owl.carousel.min.js 1 -
+/reduproducto.html/js/wow.min.js 1 -
+/empresa.html/js/jquery.easing.1.3.js 1 -
+/ch022.html/js/bootstrap.js 1 -
+/ch022.html/js/jquery.min.js 1 -
+/conectorproducto.html/js/jquery.appear.js 1 -
+/ch002fc.html/js/jquery.parallax-1.1.3.js 1 -
+/ch003c.html/js/smooth-scroll.js 1 -
+/images/ch041cfc.png 1 -
+/bf21100.html/js/bootstrap.js 1 -
+/ch032.html/js/jquery.min.js 1 -
+/ch033fl.html/js/smooth-scroll.js 1 -
+/taponproducto.htmljs/modernizr.js 2 http://www.bluefitt.com
+/taponproducto.htmljs/bootstrap-hover-dropdown.js 2 http://www.bluefitt.com
+/ch022.html/js/owl.carousel.min.js 1 -
+/ch004fc.html/js/imagesloaded.pkgd.min.js 1 -
+/taponproducto.htmljs/skrollr.min.js 2 http://www.bluefitt.com
+/ch040.html/js/page-scroll.js 1 -
+/ch032.html/js/main.js 1 -
+/codo-rosca-macho/ 4 -
+/ch012.html/js/bootstrap-hover-dropdown.js 1 -
+/db/archive.zip 4 http://bluefitt.com/db/archive.zip
+/manguitoproducto.html/js/jquery.magnific-popup.min.js 1 -
+/taponproducto.htmljs/imagesloaded.pkgd.min.js 2 http://www.bluefitt.com
+/conectorproducto.html/js/jquery.fitvids.js 1 -
+/manguitoproducto.html/js/jquery.min.js 1 -
+/ch002fc.html/js/html5shiv.js 1 -
+/privacidad.html/js/main.js 1 -
+/teproducto.html/js/jquery.countto.js 1 -
+/ch052.html/js/imagesloaded.pkgd.min.js 1 -
+/tag/racores-azules/feed/ 1 -
+/ch050.html/js/modernizr.js 1 -
+/taponproducto.htmljs/jquery.tools.min.js 2 http://www.bluefitt.com
+/ch052.html/js/jquery.isotope.min.js 1 -
+/ch011.html/js/skrollr.min.js 1 -
+/ch050.html/js/jquery.appear.js 1 -
+/contato 2 -
+/bf21101.html/js/jquery.countto.js 1 -
+/tmp/ 1 -
+/ch033cfc.html 1 -
+/empresa.html/js/main.js 1 -
+/ckfinder/core/connector/php/connector.php 1 -
+/wp-content/uploads/2018/11/Conector-rosca-macho2-RS.png 1 -
+/teproducto.html/js/jquery.fitvids.js 1 -
+/testimonials.html/js/jquery.easing.1.3.js 1 -
+/teproducto.html/js/jquery.easypiechart.js 1 -
+/images/intro-product-09-01.jpg 2 https://www.bluefitt.com/empresaIntro.html
+/ch001c.html/js/jquery.revolution.js 1 -
+/ch091.html/js/jquery.min.js 1 -
+/ch040.html/js/counter.js 1 -
+/privacidad.html/js/jquery.parallax-1.1.3.js 1 -
+/teproducto.html/js/text-effect.js 1 -
+/etiam-vitae-eros-vel-enim-auctor-venenatis/feed/ 1 -
+/ch004fc.html/js/jquery.appear.js 1 -
+/fl201418.html/js/jquery.magnific-popup.min.js 1 -
+/administrator/index.php 2 -
+/empresa.html/js/page-scroll.js 1 -
+/ch033fc.html/js/jquery.isotope.min.js 1 -
+/ch046.html/js/main.js 1 -
+/taponproducto.htmljs/main.js 2 http://www.bluefitt.com
+/ch002fc.html/js/jquery.countto.js 1 -
+/taponproducto.html/js/jquery.appear.js 1 -
+/fl201418.html/js/wow.min.js 1 -
+/ch091.html/js/page-scroll.js 1 -
+/ch003.html/js/jquery.easing.1.3.js 1 -
+/ch060.html/js/page-scroll.js 1 -
+/temp/ 1 -
+/ch002fl.html/js/page-scroll.js 1 -
+/conector-rosca-rs/ 3 -
+/index.html/js/popup-gallery.js 1 -
+/bf21100.html/js/bootstrap-hover-dropdown.js 1 -
+/ch033fc.html/js/jquery.min.js 1 -
+/images/intro-product-01-03.jpg 2599 https://www.bluefitt.com/empresaIntro.html
+/dev/ 1 -
+/home/ 1 -
+/ch031fl.html/js/jquery.tools.min.js 1 -
+/ch002.html/js/jquery.tools.min.js 1 -
+/index.html/js/skrollr.min.js 1 -
+/ch004fl.html/js/jquery.magnific-popup.min.js 1 -
+/teproducto.html/js/jquery.min.js 1 -
+/testimonials.html/js/jquery.fitvids.js 1 -
+/ch011.html/js/jquery.easypiechart.js 1 -
+/ch060.html/js/jquery.magnific-popup.min.js 1 -
+/ch003.html/js/jquery.magnific-popup.min.js 1 -
+/fl201418.html/js/counter.js 1 -
+/ch002fl.html/js/qcast.js 1 -
+/ch091.html/js/owl.carousel.min.js 1 -
+/ch091.html/js/jquery.easing.1.3.js 1 -
+/shop-single-product.html 1 -
+/ch004fl.html/js/jquery.tools.min.js 1 -
+/taponproducto.html/js/jquery.fitvids.js 1 -
+/admin/login.php 2 -
+/ch002fc.html/js/jquery.fitvids.js 1 -
+/manguito-union/ 3 -
+/ch004fl.html/js/jquery.fitvids.js 1 -
+/admin/index.php 2 -
+/ch002.html/js/jquery.magnific-popup.min.js 1 -
+/bf21101.html/js/text-effect.js 1 -
+/images/intro-product-03-01.jpg 2 https://www.bluefitt.com/empresaIntro.html
+/testimonials.html/js/jquery.countto.js 1 -
+/old/ 1 -
+/ch033fc.html/js/jquery.revolution.js 1 -
+/fileupload/server/php/index.php 1 http://www.google.com/
+/ch002fl.html/js/smooth-scroll.js 1 -
+/adminer.php 1 -
+/ch003.html/js/jquery.fitvids.js 1 -
+/ch001c.html/js/qcast.js 1 -
+/ch050.html/js/jquery.easypiechart.js 1 -
+/privacidad.html/js/jquery.fitvids.js 1 -
+/ch060.html/js/jquery.tools.min.js 1 -
+/main/ 1 -
+/ch046.html/js/hamburger-menu.js 1 -
+/fl301418.html/js/jquery.appear.js 1 -
+/reduccion/ 4 -
+/feed 1 -
+/wp-content/plugins/fancy-product-designer/inc/custom-image-handler.php 12 bluefitt.com
+/ch004fc.html/js/bootstrap.js 1 -
+/ch050.html/js/popup-gallery.js 1 -
+/reduproducto.html/js/jquery.min.js 1 -
+/ch060.html/js/html5shiv.js 1 -
+/index.html/js/jquery.fitvids.js 1 -
+/ch046.html/js/imagesloaded.pkgd.min.js 1 -
+/ch012.html/js/counter.js 1 -
+/ch011.html/js/jquery.easing.1.3.js 1 -
+/ch003.html/js/jquery.min.js 1 -
+/ch052.html/js/qcast.js 2 -
+/ch045.html/js/hamburger-menu.js 1 -
+/ch045.html/js/html5shiv.js 1 -
+/ch050.html/js/jquery.magnific-popup.min.js 1 -
+/ch004fl.html/js/wow.min.js 1 -
+/images/gradient/g40.png 2 -
+/ch091.html/js/jquery.revolution.js 1 -
+/ch012.html/js/jquery.magnific-popup.min.js 1 -
+/reduproducto.html/js/main.js 1 -
+/ch046.html/js/jquery.easypiechart.js 1 -
+/taponproducto.htmljs/popup-gallery.js 2 http://www.bluefitt.com
+/ch022.html/js/jquery.fitvids.js 1 -
+/fale-conosco 2 -
+/ch002fc.html/js/smooth-scroll.js 1 -
+/codoproducto.html/js/jquery.parallax-1.1.3.js 1 -
+/ch072.html/js/qcast.js 1 -
+/ch045.html/js/smooth-scroll.js 1 -
+/ch032.html/js/popup-gallery.js 1 -
+/codoproducto.html/js/jquery.min.js 1 -
+/taponproducto.htmljs/jquery.easing.1.3.js 2 http://www.bluefitt.com
+/ch011.html/js/popup-gallery.js 1 -
+/teproducto.html/js/jquery.magnific-popup.min.js 1 -
+/conectorproducto.html/js/counter.js 1 -
+/ch030.html/js/bootstrap.js 1 -
+/ch032.html/js/html5shiv.js 1 -
+/ch091.html/js/jquery.parallax-1.1.3.js 1 -
+/site/ 1 -
+/ch046.html/js/bootstrap-hover-dropdown.js 1 -
+/taponproducto.html/js/jquery.tools.min.js 1 -
+/images/intro-product-02-01.jpg 2 https://www.bluefitt.com/empresaIntro.html
+/bf21101.html/js/jquery.tools.min.js 1 -
+/ch022.html/js/jquery.magnific-popup.min.js 1 -
+/teproducto.html/js/jquery.isotope.min.js 1 -
+/fl201418.html/js/imagesloaded.pkgd.min.js 1 -
+/ch040.html/js/jquery.parallax-1.1.3.js 1 -
+/ch040.html/js/popup-gallery.js 1 -
+/ch091.html/js/jquery.magnific-popup.min.js 1 -
+/ch032.html/js/skrollr.min.js 1 -
+/ch012.html/js/jquery.min.js 1 -
+/ch004fl.html/js/bootstrap.js 1 -
+/ch030.html/js/jquery.tools.min.js 1 -
+/ch033fc.html/js/jquery.easing.1.3.js 1 -
+/testimonials.html/js/one-page-main.js 1 -
+/teproducto.html/js/modernizr.js 1 -
+/ch033fl.html/js/jquery.easypiechart.js 1 -
+/ch060.html/js/bootstrap.js 1 -
+/ch052.html/js/jquery.countto.js 1 -
+/ch004fc.html/js/smooth-scroll.js 1 -
+/bf21100.html/js/classie.js 1 -
+/ch032.html/js/classie.js 1 -
+/testimonials.html/js/jquery.magnific-popup.min.js 1 -
+/ch002fl.html/js/hamburger-menu.js 1 -
+/ch011.html/js/jquery.isotope.min.js 1 -
+/ch022.html/js/main.js 1 -
+/ch060.html/js/imagesloaded.pkgd.min.js 1 -
+/fl201418.html/js/jquery.easypiechart.js 1 -
+/ch050.html/js/page-scroll.js 1 -
+/cms/ 1 -
+/images/intro-product-04-03.jpg 2 https://www.bluefitt.com/empresaIntro.html
+/privacidad.html/js/jquery.min.js 1 -
+/images/intro-product-04-05.jpg 2 https://www.bluefitt.com/empresaIntro.html
+/precios.html/js/qcast.js 1 -
+/ch003.html/js/smooth-scroll.js 1 -
+/ch002fc.html/js/bootstrap-hover-dropdown.js 1 -
+/empresa.html/js/jquery.parallax-1.1.3.js 1 -
+/old-site/ 1 -
+/fl201418.html/js/jquery.appear.js 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 442
+198.204.238.212 39 39 529304 20210629193204
+185.119.81.96 35 35 278537 20210607001228
+185.113.175.102 32 32 297061 20210614035735
+51.222.178.121 18 955 35286066 20210624050505
+54.176.157.34 15 15 103787 20210605131023
+34.249.209.3 15 15 158461 20210607125156
+144.217.135.193 12 12 602044 20210629235148
+5.188.48.98 12 12 812904 20210625205443
+195.53.57.97 10 21 866392 20210625090937
+94.181.47.232 7 7 474194 20210619231209
+35.163.20.250 1 1 67555 20210625114122
+34.219.244.35 1 1 15686 20210604112403
+54.244.110.175 1 1 15686 20210623112040
+179.43.130.71 1 1 6314 20210617214120
+77.227.113.28 1 51 2427445 20210607123944
+179.43.131.136 1 1 6314 20210601161802
+135.181.213.169 1 1 15940 20210621022751
+54.74.71.7 1 1 15693 20210605004022
+179.33.104.32 2 117 2286924 20210622233504
+3.250.76.214 2 2 83795 20210610202818
+209.58.137.53 1 67 3608692 20210607114611
+52.210.13.212 1 1 15693 20210609191436
+79.153.93.89 1 51 5640641 20210620111144
+185.191.34.215 1 1 5568 20210630063940
+207.46.13.131 0 1 1188 
+210.209.225.233 3 3 203226 20210608181844
+54.247.44.159 1 1 15693 20210604190921
+18.237.32.224 3 3 40008 20210609210434
+90.174.2.240 1 50 2422201 20210624121656
+31.148.130.33 0 1 1836048 
+82.158.56.95 0 2 20495 
+180.148.4.115 3 64 3637733 20210602064416
+52.50.48.243 1 1 15693 20210621190751
+213.97.62.39 1 50 2422606 20210603120848
+95.28.220.122 3 3 47190 20210611222201
+179.43.138.174 0 1 4737 
+52.89.32.120 3 3 40008 20210608231901
+179.43.135.177 1 1 6314 20210604213119
+178.139.231.11 1 21 6190437 20210624172105
+34.212.226.40 1 1 15686 20210621114225
+54.213.165.228 1 1 15686 20210603111339
+93.158.90.161 1 1 15693 20210615144325
+35.165.104.157 1 1 15686 20210616112652
+162.55.6.11 3 3 203226 20210625031346
+157.55.39.24 0 2 3119 
+95.18.158.125 1 49 1337064 20210613203557
+195.216.155.60 2 2 23816 20210604042258
+162.55.89.85 2 2 135484 20210623030339
+3.250.232.148 1 1 15693 20210624190743
+54.217.11.118 1 1 15693 20210601191513
+54.202.206.131 1 1 15686 20210624113717
+185.169.164.120 2 77 6119159 20210618091713
+23.20.221.83 1 1 67535 20210609034917
+54.163.153.59 1 66 3613190 20210607114500
+148.3.164.114 0 2 177213 
+46.45.185.188 1 1 11396 20210615095319
+190.1.6.182 0 1 9356 
+5.183.93.32 2 2 135484 20210603133527
+195.55.249.194 0 1 9359 
+18.236.215.116 3 3 40008 20210608212123
+181.67.112.121 0 1 185961 
+34.220.80.143 1 1 15686 20210622112804
+54.214.97.208 1 1 15686 20210627115951
+54.203.14.104 1 1 15686 20210609120040
+98.177.76.32 1 1 10297 20210609110219
+179.43.135.82 1 1 10297 20210604213118
+200.68.138.46 0 1 194351 
+54.202.48.22 1 1 15686 20210609120113
+54.191.19.9 3 3 40008 20210608133218
+88.1.190.168 1 59 11196745 20210629112201
+104.245.145.119 1 1 11945 20210608013326
+190.230.253.239 0 2 278925 
+34.214.232.122 1 1 15686 20210624114449
+212.102.33.205 1 1 11945 20210630124935
+38.132.123.79 0 6 122535 
+77.67.20.139 1 1 67742 20210616131459
+34.242.30.250 1 1 15693 20210630191232
+91.132.147.168 1 1 67742 20210610230358
+20.75.128.100 4 5 63373 20210625170202
+54.154.112.95 1 1 15693 20210608191410
+62.210.111.14 1 1 15925 20210620084813
+52.42.250.227 1 1 15686 20210616112308
+190.237.173.37 1 56 1065121 20210602154336
+62.157.67.247 1 1 67579 20210622151120
+54.244.110.228 1 1 15686 20210628112733
+181.64.64.150 1 51 2427122 20210617225819
+93.158.90.85 3 3 37681 20210609172934
+185.171.164.33 2 61 5012776 20210614181934
+40.77.167.38 0 1 1647 
+34.219.156.138 1 1 15686 20210606111819
+90.171.240.125 4 88 5496347 20210616125755
+35.162.172.220 1 1 15686 20210605112859
+157.55.39.84 0 8 116595 
+157.55.39.76 0 2 912 
+185.27.99.253 3 3 37681 20210613214626
+107.172.183.121 1 1 67579 20210625133602
+38.205.191.222 1 61 3485761 20210601124501
+73.82.251.125 1 49 1136001 20210604175527
+205.234.152.104 1 1 11760 20210608090353
+54.183.176.64 1 48 448164 20210605131011
+54.154.58.251 1 1 15693 20210616190630
+69.174.91.32 2 2 135484 20210616173532
+54.188.255.77 1 1 67540 20210624011105
+54.187.76.140 1 1 15686 20210629123357
+88.5.218.75 1 68 6833051 20210602095535
+52.10.48.156 1 1 67542 20210625113330
+186.134.103.86 0 1 123594 
+34.217.214.51 1 1 15686 20210622113628
+34.244.240.242 1 1 15693 20210615015243
+54.202.69.205 3 3 40008 20210620111838
+185.220.102.6 2 2 135484 20210611230345
+176.87.164.193 0 1 9359 
+201.190.255.137 0 1 10470 
+83.48.107.104 1 68 3616256 20210625135722
+3.248.249.34 1 1 15693 20210611190938
+190.191.95.208 1 56 1064609 20210606144022
+179.43.131.92 1 1 10297 20210617214118
+157.100.173.243 1 56 1064775 20210609030457
+34.241.58.238 1 1 15693 20210628190628
+191.156.1.221 0 1 157840 
+191.101.250.172 1 1 15893 20210615115530
+179.43.137.246 1 1 6314 20210601161801
+34.247.64.112 1 1 15693 20210603191704
+200.73.152.130 0 1 131471 
+201.240.251.166 0 1 137641 
+18.237.30.6 1 1 15686 20210602111559
+159.69.157.213 1 1 15686 20210605200728
+46.6.248.189 0 1 9359 
+3.95.203.219 1 1 67550 20210628101739
+34.222.131.253 3 3 40008 20210609101449
+176.34.216.223 1 1 15693 20210607190836
+185.244.235.136 0 1 157840 
+20.98.236.61 4 4 63700 20210601171100
+54.190.205.205 1 1 15686 20210624113649
+179.43.130.204 1 1 6314 20210604213119
+54.208.182.95 1 66 3613558 20210601124413
+46.45.185.177 0 11 345697 
+54.195.160.88 3 3 39897 20210612015554
+190.116.41.82 0 1 148341 
+52.38.75.97 1 1 15686 20210618111427
+47.88.11.18 0 2 347011 
+34.213.50.135 1 1 15686 20210620110646
+62.210.92.175 1 1 15925 20210610221315
+70.39.129.108 1 1 67742 20210616184316
+52.34.126.13 1 1 15686 20210618112709
+179.43.136.108 1 1 10297 20210601161800
+69.25.58.56 2 98 2273241 20210604175605
+46.26.119.141 1 67 3615780 20210602140533
+80.30.254.88 3 81 6821380 20210625132219
+40.77.167.99 0 4 25697 
+54.200.47.249 1 1 15686 20210624114527
+51.75.95.101 1 1 15730 20210630164220
+35.245.188.175 2 2 135558 20210620111010
+90.160.20.254 1 51 2422649 20210630125217
+46.166.142.219 3 3 203226 20210627095135
+104.245.145.28 1 1 11945 20210622150155
+3.250.59.48 1 1 15693 20210615191341
+34.242.22.68 1 1 15693 20210623191337
+84.120.149.1 4 150 10256084 20210614183445
+139.59.101.211 1 1 10297 20210626103309
+190.238.108.166 3 3 26191 20210621180601
+18.221.97.103 1 1 15925 20210613232937
+185.220.101.215 1 66 3612759 20210628005958
+54.70.86.238 1 1 15686 20210619114029
+185.122.170.153 1 1 11489 20210604161300
+201.170.84.159 0 1 210139 
+186.106.199.126 0 1 148331 
+34.220.208.47 1 1 11745 20210619135449
+94.23.6.220 1 1 67555 20210613215514
+54.216.82.223 1 1 15693 20210617190631
+35.175.232.170 3 48 475982 20210618165351
+14.162.147.241 3 3 22206 20210611014541
+92.118.160.41 6 6 405240 20210628191206
+34.223.6.141 1 1 15686 20210605111635
+179.43.136.58 1 1 6314 20210617214121
+54.37.100.111 1 1 10297 20210617101433
+54.189.103.11 1 1 15686 20210619114005
+107.175.2.148 1 1 15893 20210626054938
+186.10.219.100 0 1 171900 
+91.126.182.244 1 51 2422705 20210616130951
+191.101.250.50 1 1 15893 20210620064209
+178.139.231.240 1 50 2422802 20210624160430
+188.87.202.100 0 1 8681 
+77.67.20.132 1 1 67742 20210616112924
+23.19.100.189 1 1 15730 20210604101208
+188.26.210.189 1 68 3615222 20210628173424
+142.91.189.243 3 3 203226 20210601073743
+187.190.239.229 0 1 136127 
+34.244.144.106 1 1 15693 20210610190741
+34.243.104.181 1 1 15693 20210625191231
+187.211.136.152 0 1 249779 
+35.245.153.13 1 1 15693 20210604221840
+52.11.77.110 1 1 15686 20210612213643
+18.237.5.223 1 1 15686 20210624114234
+187.202.9.106 0 1 10961 
+47.90.203.159 0 3 231092 
+54.78.123.237 1 1 15693 20210618190649
+34.221.196.122 3 3 40008 20210609055022
+90.173.193.80 1 51 2422817 20210629112059
+54.187.144.171 1 1 67555 20210625131659
+18.236.117.52 1 1 67540 20210603005344
+212.73.54.177 0 1 9359 
+138.246.253.24 3 3 17025 20210617134457
+190.236.1.167 1 59 1435181 20210607232000
+52.40.231.11 1 1 15686 20210618112739
+34.217.34.27 1 1 15686 20210602111636
+92.118.160.45 1 1 67540 20210612171218
+54.69.15.58 1 1 15686 20210612112820
+35.166.159.12 1 1 15686 20210627113400
+179.43.138.188 0 1 4737 
+181.189.234.42 0 1 137632 
+54.185.28.246 1 1 15686 20210627130618
+35.187.132.148 2 2 17249 20210604145155
+179.43.129.173 1 1 6314 20210617214118
+31.202.215.4 1 1 10297 20210602043048
+107.72.178.90 0 1 10961 
+90.174.5.255 3 82 13258856 20210615164450
+46.45.185.185 0 9 267872 
+54.149.172.15 3 3 40008 20210609154558
+81.215.75.184 0 2 10311 
+200.105.212.129 0 1 125149 
+201.254.238.147 0 1 123861 
+82.158.95.60 2 62 5016384 20210623161139
+35.163.62.184 1 1 67540 20210617005950
+52.32.46.95 1 1 67542 20210625113330
+205.169.39.238 2 77 1348421 20210604155151
+81.35.206.234 0 1 11790 
+200.40.87.165 0 2 309935 
+189.196.89.106 1 58 1099205 20210624195213
+192.42.116.16 2 2 135484 20210617221425
+34.208.6.214 1 1 67542 20210628101456
+54.218.242.192 1 1 67555 20210625114104
+81.43.66.119 0 2 287549 
+54.149.73.240 1 1 15686 20210620111126
+34.217.14.226 2 2 31372 20210609120103
+192.157.56.98 1 1 15745 20210608090349
+90.167.254.204 0 1 9359 
+54.171.55.66 1 1 15693 20210608050905
+187.160.11.210 0 1 194355 
+5.183.92.20 2 2 135484 20210607051620
+185.220.100.255 1 1 67742 20210611230335
+34.216.77.78 1 1 15686 20210623111651
+54.170.113.200 3 3 146129 20210611052418
+201.110.53.134 0 1 194354 
+104.222.33.40 0 1 6898 
+18.222.122.106 1 1 15925 20210620231947
+178.34.162.2 2 2 135484 20210602045820
+92.118.160.61 1 1 67540 20210607000105
+81.22.44.114 2 2 23816 20210615083701
+54.201.170.245 1 1 15686 20210601121137
+188.26.199.148 0 1 174013 
+104.222.33.95 1 1 67579 20210625133607
+179.43.135.197 0 1 4737 
+46.45.185.165 3 3 34472 20210615095339
+46.45.185.180 2 2 22538 20210615095336
+121.244.91.31 3 3 38015 20210610035450
+51.83.44.167 3 3 22206 20210617181329
+34.208.2.9 1 1 15686 20210606111746
+217.27.5.252 1 50 2422320 20210607134919
+81.40.98.137 1 52 2427803 20210607202026
+35.160.58.7 1 1 15686 20210623111726
+34.219.72.28 1 1 15686 20210619113908
+83.53.188.169 0 1 115302 
+108.177.213.50 1 1 15930 20210608201836
+52.34.88.13 1 1 15686 20210601111852
+185.213.155.163 2 2 27594 20210616093053
+54.244.98.114 1 1 15686 20210627130644
+5.183.92.169 2 2 135484 20210618161552
+46.45.185.161 1 1 11825 20210615095319
+89.219.52.107 0 1 171904 
+195.76.108.27 0 1 9359 
+18.222.30.192 1 1 15925 20210628010048
+46.45.185.176 0 20 451207 
+54.218.8.239 1 1 15686 20210624114515
+70.39.129.109 1 1 67742 20210608093704
+207.46.13.126 0 4 17499 
+46.45.185.162 2 2 31372 20210615095319
+52.38.241.184 1 49 1136715 20210605092710
+54.154.37.161 1 1 15693 20210629190640
+186.179.52.187 1 1 15893 20210604174157
+54.185.32.211 1 1 15686 20210630123327
+54.213.213.112 2 2 31372 20210603111232
+198.98.51.189 1 1 40264 20210604185240
+190.148.50.73 0 1 174013 
+34.223.253.139 1 1 15686 20210624114450
+31.4.177.26 2 53 2472033 20210601124047
+35.187.132.146 1 1 5760 20210604145154
+81.0.5.35 1 50 2422594 20210601011836
+54.165.178.108 1 64 3501094 20210604113638
+195.53.248.130 1 61 3462645 20210615093752
+201.150.38.214 0 1 162000 
+46.45.185.169 1 1 10836 20210615095322
+46.45.185.184 1 16 210130 20210615095303
+207.46.13.99 0 1 1466 
+186.1.3.153 0 1 136208 
+52.38.160.86 1 1 67555 20210628103449
+34.243.49.66 1 1 15693 20210602190854
+46.134.7.80 2 2 80524 20210605011659
+91.76.242.61 2 2 135484 20210603231642
+195.235.28.5 1 49 401511 20210602112939
+188.126.79.10 2 2 135484 20210630111822
+14.200.112.162 0 1 136127 
+46.45.185.186 1 1 10740 20210615095328
+196.196.164.238 1 1 15893 20210610033845
+54.191.194.163 1 1 67542 20210625130357
+208.87.233.140 1 15 171262 20210604145151
+136.166.251.100 0 1 148323 
+157.55.39.70 0 6 7608 
+89.214.194.234 4 77 6478183 20210601153846
+95.179.187.27 1 1 15925 20210623023534
+35.165.91.58 1 1 15686 20210618111426
+34.95.185.149 1 1 67779 20210608144231
+34.240.122.111 2 2 83795 20210610145851
+185.191.124.150 2 2 135484 20210610230403
+162.55.211.51 1 1 15693 20210625061843
+54.212.123.9 3 3 40008 20210610023130
+34.219.128.143 1 1 15686 20210619120430
+34.223.236.228 1 1 15888 20210625204325
+78.189.14.99 0 2 10311 
+90.160.207.184 5 99 17754183 20210630121914
+181.115.152.38 3 3 22206 20210621080657
+3.250.242.168 1 1 15693 20210611103406
+5.188.48.22 6 6 406452 20210627130218
+213.4.182.1 1 42 253884 20210621174025
+195.76.51.74 1 50 2422696 20210618131651
+83.28.1.213 1 11 49652 20210605011658
+187.112.80.44 0 1 9359 
+93.176.131.253 0 1 11198 
+200.68.140.36 2 63 1189686 20210630033434
+85.50.39.86 1 57 1090870 20210621141008
+167.114.100.160 1 1 15730 20210608100236
+81.34.193.52 0 1 9359 
+83.48.40.14 0 1 9359 
+181.164.194.99 0 1 8681 
+93.61.138.24 1 33 306310 20210602094431
+148.244.75.200 0 1 122956 
+40.77.167.83 0 2 39207 
+76.72.172.162 1 1 10312 20210626030055
+103.14.143.67 1 48 1132287 20210604155747
+92.118.160.9 1 1 67540 20210606182424
+137.226.113.44 3 3 30684 20210630142337
+186.11.45.37 0 1 194354 
+201.212.67.89 0 1 11198 
+52.38.118.216 1 1 15686 20210625111916
+203.220.48.53 1 61 913262 20210617140229
+34.220.50.106 3 3 40008 20210610083734
+144.126.139.252 1 1 15925 20210621132652
+18.202.33.135 2 3 38655 20210620050334
+186.221.64.82 0 1 229290 
+93.158.90.79 3 3 37681 20210613194532
+35.165.77.132 1 1 15686 20210616112246
+62.37.65.72 6 112 14305401 20210617090022
+66.249.89.118 1 1 15925 20210622152112
+54.245.55.210 1 1 67540 20210610010443
+190.113.215.142 0 1 10961 
+18.236.233.242 3 3 40008 20210609105830
+54.186.83.235 1 1 15686 20210623112546
+34.213.32.29 1 1 15686 20210630123405
+195.77.244.124 2 79 6209224 20210602181831
+173.252.87.3 0 1 66908 
+175.119.94.171 3 3 203226 20210603234026
+34.219.219.42 1 1 15686 20210615112741
+209.120.227.2 2 2 135558 20210620110949
+54.224.173.50 1 1 67542 20210628101455
+35.232.55.37 3 3 30802 20210610073720
+34.220.13.236 3 3 40008 20210609160251
+46.45.185.175 1 10 2371572 20210615095336
+186.69.197.141 1 58 1138494 20210602203320
+92.118.160.5 1 1 67540 20210605165216
+52.43.198.250 1 1 15686 20210622112836
+90.174.5.117 1 39 301996 20210624213504
+212.102.33.186 1 1 11945 20210621174210
+18.237.150.65 1 1 15686 20210601110638
+54.244.40.145 1 1 15686 20210624114158
+18.144.75.200 1 1 67737 20210605124827
+37.10.145.61 1 5 53550 20210603161148
+179.43.136.253 1 1 6314 20210604213120
+189.250.103.109 0 1 10961 
+157.55.39.155 0 1 6662 
+54.221.54.229 1 64 3501024 20210604113037
+151.44.41.237 3 83 13553335 20210617110040
+179.43.138.8 1 1 6314 20210601161801
+23.104.162.243 1 1 11908 20210604174201
+54.194.111.197 1 1 15693 20210614190855
+54.201.116.176 1 1 15686 20210619115933
+23.94.145.251 1 1 67579 20210625133613
+35.195.243.150 4 4 271116 20210607134919
+177.228.175.149 0 1 133038 
+45.15.16.82 2 2 135484 20210630204352
+54.203.34.252 1 1 15686 20210614113432
+35.165.180.31 1 1 15686 20210611111249
+54.84.144.130 2 65 3588142 20210604115628
+95.154.221.41 1 1 67779 20210626043751
+151.44.77.245 3 94 15138096 20210613084714
+54.149.184.113 1 1 15686 20210609130212
+34.219.33.245 3 3 40008 20210609155715
+54.149.240.255 1 1 15686 20210606111828
+84.236.218.125 1 50 2422211 20210616170827
+18.236.200.242 1 1 15686 20210601120903
+51.77.52.160 3 3 47250 20210618233738
+45.72.67.57 2 2 26381 20210617175546
+80.58.148.32 0 1 174013 
+192.71.10.105 1 1 15693 20210602145548
+52.41.104.92 3 3 40008 20210609064811
+18.27.197.252 1 1 67742 20210630204259
+18.237.45.147 1 1 15686 20210629122816
+23.254.58.85 1 49 1136795 20210604175455
+90.168.208.32 2 132 6814063 20210621220308
+207.46.13.107 0 1 448 
+190.233.26.116 0 1 10958 
+104.222.33.169 0 1 6898 
+50.17.39.255 1 67 3614569 20210606193056
+3.87.82.121 1 64 3501131 20210604113338
+188.215.231.5 1 50 2422227 20210615163123
+23.80.97.112 1 1 11908 20210623142057
+54.191.159.208 1 1 15686 20210624114452
+212.142.160.70 1 66 3985029 20210625114414
+185.220.102.253 3 3 203226 20210602011834
+157.55.39.71 0 1 12764 
+44.234.46.156 1 46 336622 20210624181240
+157.55.39.8 0 3 47082 
+221.147.154.143 0 2 351205 
+83.28.74.186 2 19 173976 20210605011550
+76.72.172.168 1 1 15750 20210626112356
+190.116.56.177 0 1 137632 
+83.48.174.191 0 1 9359 
+52.48.5.159 2 2 83795 20210610014850
+54.213.89.249 1 1 15686 20210619115433
+34.222.111.243 1 1 15686 20210618111436
+40.77.167.54 0 6 15788 
+46.45.185.181 1 1 11420 20210615095327
+185.208.145.58 3 73 6820792 20210621230625
+5.225.250.20 0 1 9359 
+34.214.69.222 1 1 15686 20210623111756
+35.187.132.150 1 1 11489 20210604145153
+193.189.100.201 2 2 135484 20210604040920
+54.186.120.182 1 1 15686 20210619114433
+2.139.165.254 4 85 10059747 20210601095059
+54.74.202.157 1 1 15693 20210622190742
+77.67.20.130 1 1 67742 20210607101919
+45.14.12.193 1 1 67742 20210629074359
+3.86.116.201 1 1 15693 20210615132809
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 30
+20210601 37 430 29771004 19
+20210602 24 488 23930886 17
+20210603 15 75 3277815 10
+20210604 36 635 22107021 28
+20210605 29 151 2206532 13
+20210606 7 196 8000955 7
+20210607 64 408 17590522 14
+20210608 28 100 6754131 16
+20210609 40 137 5060104 21
+20210610 25 27 1014867 15
+20210611 17 117 11394672 9
+20210612 6 6 138809 4
+20210613 12 151 16634002 6
+20210614 38 148 8089012 6
+20210615 27 283 23346529 20
+20210616 19 210 11391618 14
+20210617 22 242 23220370 15
+20210618 34 1101 42406350 13
+20210619 12 13 523986 9
+20210620 14 65 6001756 10
+20210621 19 251 12170755 12
+20210622 11 127 2587102 10
+20210623 12 76 6003889 10
+20210624 19 326 15478287 19
+20210625 33 247 16158713 23
+20210626 5 8 306820 5
+20210627 10 12 787412 6
+20210628 11 148 7720544 11
+20210629 57 169 8869011 8
+20210630 20 229 28560389 13
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 5
+5mn-15mn 7
+30s-2mn 10
+2mn-5mn 6
+15mn-30mn 1
+0s-30s 359
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 59
+/ 371 12368704 293 254
+/contactUs.html 108 1132894 44 59
+/privacidad.html 27 471279 4 7
+/taponproducto.html 26 344712 15 15
+/empresa.html 18 136600 3 8
+/productos.html 16 170764 3 4
+/filtroproducto.html 12 157794 1 3
+/norecibido.html 10 51330 0 4
+/codoproducto.html 10 130061 2 2
+/teproducto.html 8 108051 1 1
+/ch022.html 2 17495 1 0
+/ch072.html 1 8862 0 0
+/ch021fc.html 1 14475 0 0
+/ch043fl.html 2 23312 1 1
+/ch042.html 2 23443 0 0
+/ch091.html 3 26583 3 3
+/ch031fl.html 1 14577 0 0
+/ch090.html 1 14495 0 0
+/./conectorproducto.html 1 5721 0 0
+/ch050.html 1 13759 0 0
+/ch023.html 1 8846 0 0
+/ch012.html 4 46646 1 2
+/conectorproducto.html 7 95133 1 1
+/ch001.html 1 13969 1 1
+/recibido.html 1 5034 0 0
+/manguitoproducto.html 7 107161 1 2
+/ch031.html 1 8944 0 0
+/ch033.html 1 8963 0 0
+/./taponproducto.html 1 6231 0 1
+/ch021.html 1 8864 0 0
+/fonts/et-line.ttf 2 38346 0 2
+/ch001c.html 1 14493 0 0
+/ch082.html 2 23364 1 1
+/ch011.html 3 37865 0 0
+/fonts/fontawesome-webfont.ttf 1 72703 0 0
+/ch032.html 1 8752 0 0
+/ch070.html 2 17703 1 1
+/ch071.html 4 41043 1 1
+/ch043fc.html 3 37902 1 2
+/precios.html 6 58573 1 2
+/ch052.html 2 23318 1 1
+/ch041.html 3 37851 1 1
+/ch045.html 1 8909 1 0
+/ch004.html 1 14487 0 0
+/ch041fc.html 1 14564 0 0
+/ch033fl.html 1 14567 0 0
+/bf21100.html 1 14632 0 1
+/ch081.html 1 14489 0 0
+/ch046.html 1 8909 0 0
+/empresaIntro.html 5 36263 0 1
+/ch051.html 1 13768 0 0
+/ch040.html 1 8915 0 0
+/ch003.html 1 13991 0 0
+/reduproducto.html 5 51917 0 1
+/ch002fc.html 1 14485 0 0
+/ch023fc.html 1 14475 0 0
+/ch020.html 2 23339 0 0
+/ch030.html 2 23567 0 0
+/ch043.html 1 8903 0 1
+END_SIDER
